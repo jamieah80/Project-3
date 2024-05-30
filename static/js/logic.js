@@ -20,7 +20,7 @@ function init() {
     .append("option")
     .text(function(d) { return d; });
 
-    let yearSelectIssues = [1992, 1997, 2001, 2005, 2010, 2015, 2017];
+    let yearSelectIssues = [2011,2012,2013,2014,2015,2016,2017];
     let dropdownMenu2 = d3.select("#yearSelectIssues");
 
     // Hint: Inside a loop, you will need to use d3 to append a new
@@ -48,7 +48,6 @@ function init() {
   // Build charts and metadata panel with the first sample
   updateWordCloud();
   updateLineChart();
-
   }
 
 // Function for event listener
@@ -72,6 +71,9 @@ function optionChangedDemoYG(){
 function updateLineChart() {
   const year = document.getElementById('yearSelectIssues').value;
   const issue = document.getElementById('issueSelect').value;
+
+  //use Flask API with Json
+
   // Fetch and update the line chart data based on the selected year, issue
 
   //identify which row issue is
@@ -115,6 +117,15 @@ function updateLineChart() {
 
   var chart = new ApexCharts(document.querySelector("#chart"), options);
   chart.render();
+}
+
+function openCloseNav() {
+  console.log(document.getElementById("sidebar").style.width)
+  if (document.getElementById("sidebar").style.width == '0px') {
+      document.getElementById("sidebar").style.width = "250px";
+  } else {
+     document.getElementById("sidebar").style.width = '0px'
+  }
 }
 
 init();
