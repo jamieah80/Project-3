@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <link rel="stylesheet" href="static/css/style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        section {
+            margin-bottom: 50px;
+        }
+        .dropdown {
+            margin-bottom: 20px;
+        }
+    </style>
+    
+</head>
+<body>
+    <div class="sidebar">
+        <a class="active" href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <div class="card card-body bg-light">
+            <h2>Word Cloud</h2>
+            <div class="dropdown">
+                <label for="yearSelect">Election Year:</label>
+                <select id="yearSelect" onchange="updateWordCloud()">
+                    <!-- Options will be populated dynamically -->
+                </select>
+            </div>
+          </div>
+          <div class="card card-body bg-light">
+            <h2>Most Important Issues</h2>
+            <div class="dropdown">
+                <label for="yearSelectIssues">Election Year:</label>
+                <select id="yearSelectIssues" onchange="updateLineChart()">
+                <!-- Options will be populated dynamically -->
+                </select>
+            </div>
+            <div class="dropdown">
+                <label for="issueSelect">Voter Issue:</label>
+                <select id="issueSelect" onchange="updateLineChart()">
+                <!-- Options will be populated dynamically -->
+                </select>
+            </div>
+            <div class="dropdown">
+                <label for="demographicSelect">Demographic:</label>
+                <select id="demographicSelect" onchange="updateLineChart()">
+                <!-- Options will be populated dynamically -->
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 p-5 text-center bg-light">
+            <header>
+                <h1>Buzzword Trends in Political Newspapers</h1>
+                <p>Use the below tools to identify trends between commonly used words in Newspapers and topics polled with the public about their priorities</p>
+            </header>
+          </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-9">
+                <div class="wordCloudContainer">
+                    <!-- Word cloud will be rendered here -->
+                    <img id="wordCloud" alt="Word Cloud">
+                </div>
+              </div>
+            </div>
+          <br>
+            <div class="col-md-9">
+                <div class="linechart-container">
+                    <!-- Line Chart will be rendered here -->
+                    <img id="linechart" alt="Line Chart">
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="./static/js/logic.js"></script>
+
+</body>
+</html>

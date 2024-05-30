@@ -1,58 +1,50 @@
-function createMap(bikeStations) {
-
-  // Create the tile layer that will be the background of our map.
-  let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  });
-
-
-  // Create a baseMaps object to hold the streetmap layer.
-  let baseMaps = {
-    "Street Map": streetmap
-  };
-
-  // Create an overlayMaps object to hold the bikeStations layer.
-  let overlayMaps = {
-    "Bike Stations": bikeStations
-  };
-
-  // Create the map object with options.
-  let map = L.map("map-id", {
-    center: [40.73, -74.0059],
-    zoom: 12,
-    layers: [streetmap, bikeStations]
-  });
-
-  // Create a layer control, and pass it  baseMaps and overlayMaps. Add the layer control to the map.
-  L.control.layers(baseMaps, overlayMaps, {
-    collapsed: false
-  }).addTo(map);
+function updateWordCloud() {
+  const year = document.getElementById('yearSelect').value;
+  // Fetch the new word cloud image based on the selected year and issue
+  document.getElementById('wordCloud').src = `resources/wordclouds/${year}_poldem_wordcloud.png`;
 }
 
-function createMarkers(response) {
-
-  // Pull the "stations" property from response.data.
-  let stations = response.data.stations;
-
-  // Initialize an array to hold the bike markers.
-  let bikeMarkers = [];
-
-  // Loop through the stations array.
-  for (let index = 0; index < stations.length; index++) {
-    let station = stations[index];
-
-    // For each station, create a marker, and bind a popup with the station's name.
-    let bikeMarker = L.marker([station.lat, station.lon])
-      .bindPopup("<h3>" + station.name + "<h3><h3>Capacity: " + station.capacity + "</h3>");
-
-    // Add the marker to the bikeMarkers array.
-    bikeMarkers.push(bikeMarker);
-  }
-
-  // Create a layer group that's made from the bike markers array, and pass it to the createMap function.
-  createMap(L.layerGroup(bikeMarkers));
+function updateLineChart() {
+  const year = document.getElementById('yearSelectIssues').value;
+  const issue = document.getElementById('issueSelect').value;
+  const demographic = document.getElementById('demographicSelect').value;
+  // Fetch and update the line chart data based on the selected year, issue, and demographic
+  // (This part will be handled by Python backend generating the data dynamically)
 }
 
+// Example to populate dropdowns, you can modify this based on actual data
+document.addEventListener('DOMContentLoaded', () => {
+  // Populate year dropdowns
+  const years = [1992, 1997, 2001, 2005, 2010, 2015, 2017];
+  const yearSelect = document.getElementById('yearSelect');
+  const yearSelectIssues = document.getElementById('yearSelectIssues');
+  years.forEach(year => {
+      const option = document.createElement('option');
+      option.value = year;
+      option.textContent = year;
+      yearSelect.appendChild(option);
+      yearSelectIssues.appendChild(option.cloneNode(true));
+  });
 
-// Perform an API call to the Citi Bike API to get the station information. Call createMarkers when it completes.
-d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json").then(createMarkers);
+  // Populate issue dropdowns
+  const issues = ['Economy', 'Healthcare', 'Education', 'Environment'];
+  const issueSelect = document.getElementById('issueSelect');
+  issues.forEach(issue => {
+      const option = document.createElement('option');
+      option.value = issue;
+      option.textContent = issue;
+      issueSelect.appendChild(option);
+  });
+
+  // Populate demographic dropdown
+  const demographics = ['Adults', 'Teens', 'Seniors', 'Children'];
+  const demographicSelect = document.getElementById('demographicSelect');
+  demographics.forEach(demographic => {
+      const option = document.createElement('option');
+      option.value = demographic;
+      option.textContent = demographic;
+      demographicSelect.appendChild(option);
+  });
+});
+
+function init() {};
