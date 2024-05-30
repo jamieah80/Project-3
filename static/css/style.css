@@ -1,0 +1,113 @@
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+#wordCloud{
+  max-width: 50%;
+  max-height: 50%
+  }
+#linechart{
+  max-width: 50%;
+  max-height: 50%
+  }
+ /* The side navigation menu */
+ .sidebar {
+  height: 100%;
+  width: 250px;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+  transition: 0.1s;
+  margin-top: 50px;
+  background-color: #fff;
+  border-right: 1px solid #eee;
+  line-height: 80px;
+  overflow: hidden;
+}
+
+/* Sidebar links */
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+  transition: 0.05;
+}
+
+/* Active/current link */
+.sidebar a.active {
+  background-color: #055770;
+  color: white;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+.close-button {
+  line-height: 0px; 
+  color: #00000083; 
+  font-size: 40px; 
+  margin-left: 5px;
+  cursor:pointer
+}
+
+.close-button:hover {
+     color: #055770;
+}
+
+.toggle {
+  width: 250px;
+  height: 70px;
+  border-right: 1px solid #eee;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+} 
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .05s;
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}

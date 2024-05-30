@@ -1,0 +1,3079 @@
+Issue,Date,Percentage
+Health,15/02/2011,0.31
+Health,01/03/2011,0.29
+Health,15/03/2011,0.29
+Health,29/03/2011,0.27
+Health,12/04/2011,0.37
+Health,26/04/2011,0.32
+Health,10/05/2011,0.37
+Health,24/05/2011,0.33
+Health,07/06/2011,0.35
+Health,14/06/2011,0.43
+Health,21/06/2011,0.36
+Health,28/06/2011,0.31
+Health,05/07/2011,0.29
+Health,12/07/2011,0.29
+Health,19/07/2011,0.28
+Health,26/07/2011,0.28
+Health,09/08/2011,0.20
+Health,23/08/2011,0.17
+Health,06/09/2011,0.27
+Health,20/09/2011,0.21
+Health,04/10/2011,0.26
+Health,18/10/2011,0.28
+Health,01/11/2011,0.23
+Health,15/11/2011,0.22
+Health,29/11/2011,0.22
+Health,13/12/2011,0.20
+Health,03/01/2012,0.22
+Health,17/01/2012,0.22
+Health,31/01/2012,0.25
+Health,14/02/2012,0.32
+Health,20/02/2012,0.29
+Health,28/02/2012,0.37
+Health,13/03/2012,0.33
+Health,27/03/2012,0.33
+Health,10/04/2012,0.26
+Health,24/04/2012,0.25
+Health,08/05/2012,0.28
+Health,22/05/2012,0.24
+Health,07/06/2012,0.28
+Health,19/06/2012,0.24
+Health,03/07/2012,0.27
+Health,17/07/2012,0.28
+Health,31/07/2012,0.28
+Health,14/08/2012,0.27
+Health,28/08/2012,0.24
+Health,11/09/2012,0.27
+Health,25/09/2012,0.28
+Health,09/10/2012,0.30
+Health,23/10/2012,0.26
+Health,06/11/2012,0.27
+Health,20/11/2012,0.26
+Health,04/12/2012,0.30
+Health,15/01/2013,0.28
+Health,29/01/2013,0.26
+Health,12/02/2013,0.36
+Health,26/02/2013,0.32
+Health,05/03/2013,0.32
+Health,12/03/2013,0.31
+Health,19/03/2013,0.29
+Health,26/03/2013,0.31
+Health,02/04/2013,0.34
+Health,09/04/2013,0.31
+Health,16/04/2013,0.30
+Health,23/04/2013,0.34
+Health,30/04/2013,0.30
+Health,07/05/2013,0.28
+Health,21/05/2013,0.31
+Health,04/06/2013,0.32
+Health,18/06/2013,0.30
+Health,16/07/2013,0.37
+Health,30/07/2013,0.41
+Health,13/08/2013,0.32
+Health,27/08/2013,0.30
+Health,10/09/2013,0.32
+Health,08/10/2013,0.33
+Health,22/10/2013,0.30
+Health,05/11/2013,0.26
+Health,19/11/2013,0.33
+Health,03/12/2013,0.28
+Health,17/12/2013,0.32
+Health,14/01/2014,0.31
+Health,22/01/2014,0.32
+Health,28/01/2014,0.31
+Health,11/02/2014,0.26
+Health,25/02/2014,0.31
+Health,11/03/2014,0.31
+Health,25/03/2014,0.36
+Health,08/04/2014,0.35
+Health,13/05/2014,0.34
+Health,28/05/2014,0.32
+Health,10/06/2014,0.36
+Health,24/06/2014,0.35
+Health,08/07/2014,0.40
+Health,22/07/2014,0.36
+Health,05/08/2014,0.41
+Health,19/08/2014,0.38
+Health,02/09/2014,0.34
+Health,16/09/2014,0.37
+Health,14/10/2014,0.45
+Health,28/10/2014,0.43
+Health,11/11/2014,0.39
+Health,25/11/2014,0.34
+Health,09/12/2014,0.33
+Health,06/01/2015,0.46
+Health,20/01/2015,0.46
+Health,03/02/2015,0.46
+Health,17/02/2015,0.43
+Health,03/03/2015,0.42
+Health,17/03/2015,0.45
+Health,31/03/2015,0.45
+Health,14/04/2015,0.51
+Health,28/04/2015,0.44
+Health,12/05/2015,0.45
+Health,19/05/2015,0.44
+Health,26/05/2015,0.43
+Health,02/06/2015,0.39
+Health,09/06/2015,0.38
+Health,04/09/2015,0.28
+Health,18/12/2015,0.39
+Health,08/06/2016,0.35
+Health,06/07/2016,0.30
+Health,26/07/2016,0.29
+Health,02/08/2016,0.28
+Health,09/08/2016,0.29
+Health,17/08/2016,0.30
+Health,23/08/2016,0.32
+Health,31/08/2016,0.37
+Health,14/09/2016,0.38
+Health,12/10/2016,0.32
+Health,25/10/2016,0.33
+Health,01/11/2016,0.33
+Health,15/11/2016,0.35
+Health,29/11/2016,0.35
+Health,17/12/2016,0.34
+Health,10/01/2017,0.45
+Health,17/01/2017,0.52
+Health,24/01/2017,0.45
+Health,31/01/2017,0.44
+Health,13/02/2017,0.50
+Health,22/02/2017,0.51
+Health,28/02/2017,0.46
+Health,14/03/2017,0.43
+Health,21/03/2017,0.44
+Health,27/03/2017,0.41
+Health,06/04/2017,0.42
+Health,19/04/2017,0.42
+Health,26/04/2017,0.47
+Health,03/05/2017,0.45
+Health,10/05/2017,0.48
+Health,17/05/2017,0.47
+Health,31/05/2017,0.42
+Health,07/06/2017,0.41
+Health,22/06/2017,0.37
+Health,11/07/2017,0.38
+Health,01/08/2017,0.39
+Health,31/08/2017,0.34
+Health,12/09/2017,0.38
+Health,11/10/2017,0.37
+Health,28/11/2017,0.42
+Health,12/12/2017,0.39
+Health,20/12/2017,0.39
+Health,21/12/2017,0.43
+Immigration & Asylum,15/02/2011,0.47
+Immigration & Asylum,01/03/2011,0.46
+Immigration & Asylum,15/03/2011,0.46
+Immigration & Asylum,29/03/2011,0.42
+Immigration & Asylum,12/04/2011,0.43
+Immigration & Asylum,26/04/2011,0.51
+Immigration & Asylum,10/05/2011,0.48
+Immigration & Asylum,24/05/2011,0.48
+Immigration & Asylum,07/06/2011,0.51
+Immigration & Asylum,14/06/2011,0.49
+Immigration & Asylum,21/06/2011,0.46
+Immigration & Asylum,28/06/2011,0.46
+Immigration & Asylum,05/07/2011,0.48
+Immigration & Asylum,12/07/2011,0.49
+Immigration & Asylum,19/07/2011,0.48
+Immigration & Asylum,26/07/2011,0.49
+Immigration & Asylum,09/08/2011,0.46
+Immigration & Asylum,23/08/2011,0.47
+Immigration & Asylum,06/09/2011,0.49
+Immigration & Asylum,20/09/2011,0.44
+Immigration & Asylum,04/10/2011,0.49
+Immigration & Asylum,18/10/2011,0.45
+Immigration & Asylum,01/11/2011,0.48
+Immigration & Asylum,15/11/2011,0.51
+Immigration & Asylum,29/11/2011,0.49
+Immigration & Asylum,13/12/2011,0.41
+Immigration & Asylum,03/01/2012,0.41
+Immigration & Asylum,17/01/2012,0.45
+Immigration & Asylum,31/01/2012,0.47
+Immigration & Asylum,14/02/2012,0.49
+Immigration & Asylum,20/02/2012,0.42
+Immigration & Asylum,28/02/2012,0.45
+Immigration & Asylum,13/03/2012,0.45
+Immigration & Asylum,27/03/2012,0.44
+Immigration & Asylum,10/04/2012,0.47
+Immigration & Asylum,24/04/2012,0.47
+Immigration & Asylum,08/05/2012,0.46
+Immigration & Asylum,22/05/2012,0.43
+Immigration & Asylum,07/06/2012,0.43
+Immigration & Asylum,19/06/2012,0.44
+Immigration & Asylum,03/07/2012,0.44
+Immigration & Asylum,17/07/2012,0.50
+Immigration & Asylum,31/07/2012,0.46
+Immigration & Asylum,14/08/2012,0.46
+Immigration & Asylum,28/08/2012,0.47
+Immigration & Asylum,11/09/2012,0.44
+Immigration & Asylum,25/09/2012,0.46
+Immigration & Asylum,09/10/2012,0.46
+Immigration & Asylum,23/10/2012,0.49
+Immigration & Asylum,06/11/2012,0.46
+Immigration & Asylum,20/11/2012,0.48
+Immigration & Asylum,04/12/2012,0.46
+Immigration & Asylum,15/01/2013,0.47
+Immigration & Asylum,29/01/2013,0.49
+Immigration & Asylum,12/02/2013,0.52
+Immigration & Asylum,26/02/2013,0.53
+Immigration & Asylum,05/03/2013,0.54
+Immigration & Asylum,12/03/2013,0.52
+Immigration & Asylum,19/03/2013,0.53
+Immigration & Asylum,26/03/2013,0.55
+Immigration & Asylum,02/04/2013,0.51
+Immigration & Asylum,09/04/2013,0.55
+Immigration & Asylum,16/04/2013,0.55
+Immigration & Asylum,23/04/2013,0.51
+Immigration & Asylum,30/04/2013,0.55
+Immigration & Asylum,07/05/2013,0.55
+Immigration & Asylum,21/05/2013,0.56
+Immigration & Asylum,04/06/2013,0.56
+Immigration & Asylum,18/06/2013,0.52
+Immigration & Asylum,16/07/2013,0.51
+Immigration & Asylum,30/07/2013,0.50
+Immigration & Asylum,13/08/2013,0.54
+Immigration & Asylum,27/08/2013,0.53
+Immigration & Asylum,10/09/2013,0.51
+Immigration & Asylum,08/10/2013,0.48
+Immigration & Asylum,22/10/2013,0.54
+Immigration & Asylum,05/11/2013,0.55
+Immigration & Asylum,19/11/2013,0.53
+Immigration & Asylum,03/12/2013,0.55
+Immigration & Asylum,17/12/2013,0.56
+Immigration & Asylum,14/01/2014,0.61
+Immigration & Asylum,22/01/2014,0.56
+Immigration & Asylum,28/01/2014,0.53
+Immigration & Asylum,11/02/2014,0.51
+Immigration & Asylum,25/02/2014,0.51
+Immigration & Asylum,11/03/2014,0.53
+Immigration & Asylum,25/03/2014,0.48
+Immigration & Asylum,08/04/2014,0.51
+Immigration & Asylum,13/05/2014,0.52
+Immigration & Asylum,28/05/2014,0.56
+Immigration & Asylum,10/06/2014,0.53
+Immigration & Asylum,24/06/2014,0.56
+Immigration & Asylum,08/07/2014,0.54
+Immigration & Asylum,22/07/2014,0.57
+Immigration & Asylum,05/08/2014,0.54
+Immigration & Asylum,19/08/2014,0.56
+Immigration & Asylum,02/09/2014,0.58
+Immigration & Asylum,16/09/2014,0.54
+Immigration & Asylum,14/10/2014,0.55
+Immigration & Asylum,28/10/2014,0.57
+Immigration & Asylum,11/11/2014,0.55
+Immigration & Asylum,25/11/2014,0.53
+Immigration & Asylum,09/12/2014,0.49
+Immigration & Asylum,06/01/2015,0.52
+Immigration & Asylum,20/01/2015,0.54
+Immigration & Asylum,03/02/2015,0.49
+Immigration & Asylum,17/02/2015,0.50
+Immigration & Asylum,03/03/2015,0.50
+Immigration & Asylum,17/03/2015,0.51
+Immigration & Asylum,31/03/2015,0.48
+Immigration & Asylum,14/04/2015,0.47
+Immigration & Asylum,28/04/2015,0.50
+Immigration & Asylum,12/05/2015,0.47
+Immigration & Asylum,19/05/2015,0.51
+Immigration & Asylum,26/05/2015,0.52
+Immigration & Asylum,02/06/2015,0.52
+Immigration & Asylum,09/06/2015,0.52
+Immigration & Asylum,04/09/2015,0.71
+Immigration & Asylum,18/12/2015,0.63
+Immigration & Asylum,08/06/2016,0.56
+Immigration & Asylum,06/07/2016,0.46
+Immigration & Asylum,26/07/2016,0.47
+Immigration & Asylum,02/08/2016,0.49
+Immigration & Asylum,09/08/2016,0.48
+Immigration & Asylum,17/08/2016,0.44
+Immigration & Asylum,23/08/2016,0.45
+Immigration & Asylum,31/08/2016,0.49
+Immigration & Asylum,14/09/2016,0.48
+Immigration & Asylum,12/10/2016,0.45
+Immigration & Asylum,25/10/2016,0.49
+Immigration & Asylum,01/11/2016,0.47
+Immigration & Asylum,15/11/2016,0.44
+Immigration & Asylum,29/11/2016,0.40
+Immigration & Asylum,17/12/2016,0.45
+Immigration & Asylum,10/01/2017,0.42
+Immigration & Asylum,17/01/2017,0.42
+Immigration & Asylum,24/01/2017,0.42
+Immigration & Asylum,31/01/2017,0.46
+Immigration & Asylum,13/02/2017,0.41
+Immigration & Asylum,22/02/2017,0.38
+Immigration & Asylum,28/02/2017,0.38
+Immigration & Asylum,14/03/2017,0.41
+Immigration & Asylum,21/03/2017,0.38
+Immigration & Asylum,27/03/2017,0.39
+Immigration & Asylum,06/04/2017,0.38
+Immigration & Asylum,19/04/2017,0.36
+Immigration & Asylum,26/04/2017,0.36
+Immigration & Asylum,03/05/2017,0.35
+Immigration & Asylum,10/05/2017,0.34
+Immigration & Asylum,17/05/2017,0.37
+Immigration & Asylum,31/05/2017,0.35
+Immigration & Asylum,07/06/2017,0.37
+Immigration & Asylum,22/06/2017,0.34
+Immigration & Asylum,11/07/2017,0.38
+Immigration & Asylum,01/08/2017,0.36
+Immigration & Asylum,31/08/2017,0.36
+Immigration & Asylum,12/09/2017,0.37
+Immigration & Asylum,11/10/2017,0.33
+Immigration & Asylum,28/11/2017,0.32
+Immigration & Asylum,12/12/2017,0.31
+Immigration & Asylum,20/12/2017,0.30
+Immigration & Asylum,21/12/2017,0.31
+Crime,15/02/2011,0.23
+Crime,01/03/2011,0.21
+Crime,15/03/2011,0.18
+Crime,29/03/2011,0.19
+Crime,12/04/2011,0.21
+Crime,26/04/2011,0.22
+Crime,10/05/2011,0.21
+Crime,24/05/2011,0.24
+Crime,07/06/2011,0.23
+Crime,14/06/2011,0.24
+Crime,21/06/2011,0.21
+Crime,28/06/2011,0.21
+Crime,05/07/2011,0.20
+Crime,12/07/2011,0.20
+Crime,19/07/2011,0.21
+Crime,26/07/2011,0.23
+Crime,09/08/2011,0.48
+Crime,23/08/2011,0.48
+Crime,06/09/2011,0.38
+Crime,20/09/2011,0.32
+Crime,04/10/2011,0.24
+Crime,18/10/2011,0.23
+Crime,01/11/2011,0.24
+Crime,15/11/2011,0.21
+Crime,29/11/2011,0.20
+Crime,13/12/2011,0.18
+Crime,03/01/2012,0.26
+Crime,17/01/2012,0.21
+Crime,31/01/2012,0.23
+Crime,14/02/2012,0.21
+Crime,20/02/2012,0.20
+Crime,28/02/2012,0.19
+Crime,13/03/2012,0.20
+Crime,27/03/2012,0.18
+Crime,10/04/2012,0.22
+Crime,24/04/2012,0.19
+Crime,08/05/2012,0.17
+Crime,22/05/2012,0.18
+Crime,07/06/2012,0.18
+Crime,19/06/2012,0.16
+Crime,03/07/2012,0.18
+Crime,17/07/2012,0.19
+Crime,31/07/2012,0.17
+Crime,14/08/2012,0.20
+Crime,28/08/2012,0.20
+Crime,11/09/2012,0.19
+Crime,25/09/2012,0.24
+Crime,09/10/2012,0.19
+Crime,23/10/2012,0.22
+Crime,06/11/2012,0.21
+Crime,20/11/2012,0.18
+Crime,04/12/2012,0.17
+Crime,15/01/2013,0.18
+Crime,29/01/2013,0.16
+Crime,12/02/2013,0.17
+Crime,26/02/2013,0.14
+Crime,05/03/2013,0.15
+Crime,12/03/2013,0.15
+Crime,19/03/2013,0.15
+Crime,26/03/2013,0.14
+Crime,02/04/2013,0.14
+Crime,09/04/2013,0.16
+Crime,16/04/2013,0.18
+Crime,23/04/2013,0.17
+Crime,30/04/2013,0.14
+Crime,07/05/2013,0.14
+Crime,21/05/2013,0.14
+Crime,04/06/2013,0.21
+Crime,18/06/2013,0.14
+Crime,16/07/2013,0.13
+Crime,30/07/2013,0.13
+Crime,13/08/2013,0.13
+Crime,27/08/2013,0.15
+Crime,10/09/2013,0.11
+Crime,08/10/2013,0.13
+Crime,22/10/2013,0.12
+Crime,05/11/2013,0.13
+Crime,19/11/2013,0.13
+Crime,03/12/2013,0.12
+Crime,17/12/2013,0.13
+Crime,14/01/2014,0.15
+Crime,22/01/2014,0.12
+Crime,28/01/2014,0.13
+Crime,11/02/2014,0.12
+Crime,25/02/2014,0.11
+Crime,11/03/2014,0.12
+Crime,25/03/2014,0.13
+Crime,08/04/2014,0.12
+Crime,13/05/2014,0.12
+Crime,28/05/2014,0.10
+Crime,10/06/2014,0.11
+Crime,24/06/2014,0.10
+Crime,08/07/2014,0.12
+Crime,22/07/2014,0.11
+Crime,05/08/2014,0.11
+Crime,19/08/2014,0.12
+Crime,02/09/2014,0.15
+Crime,16/09/2014,0.14
+Crime,14/10/2014,0.10
+Crime,28/10/2014,0.10
+Crime,11/11/2014,0.10
+Crime,25/11/2014,0.10
+Crime,09/12/2014,0.10
+Crime,06/01/2015,0.08
+Crime,20/01/2015,0.10
+Crime,03/02/2015,0.09
+Crime,17/02/2015,0.10
+Crime,03/03/2015,0.11
+Crime,17/03/2015,0.09
+Crime,31/03/2015,0.08
+Crime,14/04/2015,0.07
+Crime,28/04/2015,0.08
+Crime,12/05/2015,0.06
+Crime,19/05/2015,0.07
+Crime,26/05/2015,0.06
+Crime,02/06/2015,0.07
+Crime,09/06/2015,0.07
+Crime,04/09/2015,0.10
+Crime,18/12/2015,0.11
+Crime,08/06/2016,0.07
+Crime,06/07/2016,0.07
+Crime,26/07/2016,0.10
+Crime,02/08/2016,0.12
+Crime,09/08/2016,0.10
+Crime,17/08/2016,0.10
+Crime,23/08/2016,0.09
+Crime,31/08/2016,0.09
+Crime,14/09/2016,0.10
+Crime,12/10/2016,0.08
+Crime,25/10/2016,0.09
+Crime,01/11/2016,0.10
+Crime,15/11/2016,0.08
+Crime,29/11/2016,0.09
+Crime,17/12/2016,0.09
+Crime,10/01/2017,0.09
+Crime,17/01/2017,0.09
+Crime,24/01/2017,0.07
+Crime,31/01/2017,0.09
+Crime,13/02/2017,0.08
+Crime,22/02/2017,0.09
+Crime,28/02/2017,0.10
+Crime,14/03/2017,0.11
+Crime,21/03/2017,0.09
+Crime,27/03/2017,0.11
+Crime,06/04/2017,0.11
+Crime,19/04/2017,0.09
+Crime,26/04/2017,0.10
+Crime,03/05/2017,0.11
+Crime,10/05/2017,0.09
+Crime,17/05/2017,0.09
+Crime,31/05/2017,0.07
+Crime,07/06/2017,0.11
+Crime,22/06/2017,0.11
+Crime,11/07/2017,0.09
+Crime,01/08/2017,0.10
+Crime,31/08/2017,0.10
+Crime,12/09/2017,0.10
+Crime,11/10/2017,0.11
+Crime,28/11/2017,0.12
+Crime,12/12/2017,0.11
+Crime,20/12/2017,0.10
+Crime,21/12/2017,0.11
+The economy,15/02/2011,0.78
+The economy,01/03/2011,0.78
+The economy,15/03/2011,0.77
+The economy,29/03/2011,0.79
+The economy,12/04/2011,0.75
+The economy,26/04/2011,0.75
+The economy,10/05/2011,0.75
+The economy,24/05/2011,0.76
+The economy,07/06/2011,0.76
+The economy,14/06/2011,0.73
+The economy,21/06/2011,0.74
+The economy,28/06/2011,0.76
+The economy,05/07/2011,0.73
+The economy,12/07/2011,0.75
+The economy,19/07/2011,0.77
+The economy,26/07/2011,0.76
+The economy,09/08/2011,0.74
+The economy,23/08/2011,0.76
+The economy,06/09/2011,0.75
+The economy,20/09/2011,0.77
+The economy,04/10/2011,0.79
+The economy,18/10/2011,0.84
+The economy,01/11/2011,0.80
+The economy,15/11/2011,0.80
+The economy,29/11/2011,0.81
+The economy,13/12/2011,0.81
+The economy,03/01/2012,0.81
+The economy,17/01/2012,0.82
+The economy,31/01/2012,0.82
+The economy,14/02/2012,0.80
+The economy,20/02/2012,0.75
+The economy,28/02/2012,0.78
+The economy,13/03/2012,0.77
+The economy,27/03/2012,0.74
+The economy,10/04/2012,0.77
+The economy,24/04/2012,0.78
+The economy,08/05/2012,0.81
+The economy,22/05/2012,0.78
+The economy,07/06/2012,0.76
+The economy,19/06/2012,0.80
+The economy,03/07/2012,0.79
+The economy,17/07/2012,0.79
+The economy,31/07/2012,0.79
+The economy,14/08/2012,0.80
+The economy,28/08/2012,0.79
+The economy,11/09/2012,0.79
+The economy,25/09/2012,0.75
+The economy,09/10/2012,0.76
+The economy,23/10/2012,0.75
+The economy,06/11/2012,0.74
+The economy,20/11/2012,0.77
+The economy,04/12/2012,0.77
+The economy,15/01/2013,0.77
+The economy,29/01/2013,0.79
+The economy,12/02/2013,0.74
+The economy,26/02/2013,0.81
+The economy,05/03/2013,0.77
+The economy,12/03/2013,0.77
+The economy,19/03/2013,0.78
+The economy,26/03/2013,0.77
+The economy,02/04/2013,0.77
+The economy,09/04/2013,0.77
+The economy,16/04/2013,0.78
+The economy,23/04/2013,0.76
+The economy,30/04/2013,0.77
+The economy,07/05/2013,0.75
+The economy,21/05/2013,0.72
+The economy,04/06/2013,0.73
+The economy,18/06/2013,0.66
+The economy,16/07/2013,0.64
+The economy,30/07/2013,0.66
+The economy,13/08/2013,0.67
+The economy,27/08/2013,0.67
+The economy,10/09/2013,0.62
+The economy,08/10/2013,0.63
+The economy,22/10/2013,0.66
+The economy,05/11/2013,0.63
+The economy,19/11/2013,0.62
+The economy,03/12/2013,0.60
+The economy,17/12/2013,0.58
+The economy,14/01/2014,0.61
+The economy,22/01/2014,0.58
+The economy,28/01/2014,0.58
+The economy,11/02/2014,0.54
+The economy,25/02/2014,0.61
+The economy,11/03/2014,0.60
+The economy,25/03/2014,0.60
+The economy,08/04/2014,0.57
+The economy,13/05/2014,0.52
+The economy,28/05/2014,0.53
+The economy,10/06/2014,0.52
+The economy,24/06/2014,0.51
+The economy,08/07/2014,0.48
+The economy,22/07/2014,0.49
+The economy,05/08/2014,0.46
+The economy,19/08/2014,0.50
+The economy,02/09/2014,0.48
+The economy,16/09/2014,0.50
+The economy,14/10/2014,0.54
+The economy,28/10/2014,0.50
+The economy,11/11/2014,0.52
+The economy,25/11/2014,0.50
+The economy,09/12/2014,0.50
+The economy,06/01/2015,0.52
+The economy,20/01/2015,0.48
+The economy,03/02/2015,0.50
+The economy,17/02/2015,0.47
+The economy,03/03/2015,0.46
+The economy,17/03/2015,0.45
+The economy,31/03/2015,0.53
+The economy,14/04/2015,0.54
+The economy,28/04/2015,0.52
+The economy,12/05/2015,0.51
+The economy,19/05/2015,0.48
+The economy,26/05/2015,0.47
+The economy,02/06/2015,0.46
+The economy,09/06/2015,0.46
+The economy,04/09/2015,0.35
+The economy,18/12/2015,0.33
+The economy,08/06/2016,0.34
+The economy,06/07/2016,0.47
+The economy,26/07/2016,0.43
+The economy,02/08/2016,0.42
+The economy,09/08/2016,0.45
+The economy,17/08/2016,0.41
+The economy,23/08/2016,0.41
+The economy,31/08/2016,0.37
+The economy,14/09/2016,0.35
+The economy,12/10/2016,0.36
+The economy,25/10/2016,0.39
+The economy,01/11/2016,0.37
+The economy,15/11/2016,0.39
+The economy,29/11/2016,0.40
+The economy,17/12/2016,0.33
+The economy,10/01/2017,0.34
+The economy,17/01/2017,0.31
+The economy,24/01/2017,0.35
+The economy,31/01/2017,0.34
+The economy,13/02/2017,0.30
+The economy,22/02/2017,0.31
+The economy,28/02/2017,0.31
+The economy,14/03/2017,0.32
+The economy,21/03/2017,0.33
+The economy,27/03/2017,0.33
+The economy,06/04/2017,0.32
+The economy,19/04/2017,0.36
+The economy,26/04/2017,0.35
+The economy,03/05/2017,0.34
+The economy,10/05/2017,0.35
+The economy,17/05/2017,0.35
+The economy,31/05/2017,0.29
+The economy,07/06/2017,0.28
+The economy,22/06/2017,0.30
+The economy,11/07/2017,0.35
+The economy,01/08/2017,0.35
+The economy,31/08/2017,0.33
+The economy,12/09/2017,0.30
+The economy,11/10/2017,0.32
+The economy,28/11/2017,0.35
+The economy,12/12/2017,0.31
+The economy,20/12/2017,0.31
+The economy,21/12/2017,0.30
+Tax,15/02/2011,0.21
+Tax,01/03/2011,0.23
+Tax,15/03/2011,0.21
+Tax,29/03/2011,0.22
+Tax,12/04/2011,0.19
+Tax,26/04/2011,0.16
+Tax,10/05/2011,0.15
+Tax,24/05/2011,0.15
+Tax,07/06/2011,0.14
+Tax,14/06/2011,0.15
+Tax,21/06/2011,0.13
+Tax,28/06/2011,0.15
+Tax,05/07/2011,0.13
+Tax,12/07/2011,0.13
+Tax,19/07/2011,0.14
+Tax,26/07/2011,0.14
+Tax,09/08/2011,0.12
+Tax,23/08/2011,0.12
+Tax,06/09/2011,0.13
+Tax,20/09/2011,0.15
+Tax,04/10/2011,0.14
+Tax,18/10/2011,0.13
+Tax,01/11/2011,0.11
+Tax,15/11/2011,0.11
+Tax,29/11/2011,0.13
+Tax,13/12/2011,0.11
+Tax,03/01/2012,0.11
+Tax,17/01/2012,0.10
+Tax,31/01/2012,0.14
+Tax,14/02/2012,0.12
+Tax,20/02/2012,0.16
+Tax,28/02/2012,0.14
+Tax,13/03/2012,0.17
+Tax,27/03/2012,0.20
+Tax,10/04/2012,0.21
+Tax,24/04/2012,0.19
+Tax,08/05/2012,0.19
+Tax,22/05/2012,0.14
+Tax,07/06/2012,0.19
+Tax,19/06/2012,0.14
+Tax,03/07/2012,0.18
+Tax,17/07/2012,0.15
+Tax,31/07/2012,0.14
+Tax,14/08/2012,0.14
+Tax,28/08/2012,0.16
+Tax,11/09/2012,0.15
+Tax,25/09/2012,0.18
+Tax,09/10/2012,0.17
+Tax,23/10/2012,0.16
+Tax,06/11/2012,0.18
+Tax,20/11/2012,0.17
+Tax,04/12/2012,0.24
+Tax,15/01/2013,0.16
+Tax,29/01/2013,0.17
+Tax,12/02/2013,0.14
+Tax,26/02/2013,0.18
+Tax,05/03/2013,0.17
+Tax,12/03/2013,0.22
+Tax,19/03/2013,0.16
+Tax,26/03/2013,0.16
+Tax,02/04/2013,0.16
+Tax,09/04/2013,0.19
+Tax,16/04/2013,0.15
+Tax,23/04/2013,0.18
+Tax,30/04/2013,0.17
+Tax,07/05/2013,0.16
+Tax,21/05/2013,0.14
+Tax,04/06/2013,0.14
+Tax,18/06/2013,0.15
+Tax,16/07/2013,0.11
+Tax,30/07/2013,0.08
+Tax,13/08/2013,0.09
+Tax,27/08/2013,0.09
+Tax,10/09/2013,0.10
+Tax,08/10/2013,0.09
+Tax,22/10/2013,0.09
+Tax,05/11/2013,0.11
+Tax,19/11/2013,0.14
+Tax,03/12/2013,0.10
+Tax,17/12/2013,0.11
+Tax,14/01/2014,0.09
+Tax,22/01/2014,0.11
+Tax,28/01/2014,0.10
+Tax,11/02/2014,0.08
+Tax,25/02/2014,0.10
+Tax,11/03/2014,0.11
+Tax,25/03/2014,0.11
+Tax,08/04/2014,0.10
+Tax,13/05/2014,0.10
+Tax,28/05/2014,0.09
+Tax,10/06/2014,0.09
+Tax,24/06/2014,0.07
+Tax,08/07/2014,0.07
+Tax,22/07/2014,0.08
+Tax,05/08/2014,0.09
+Tax,19/08/2014,0.09
+Tax,02/09/2014,0.07
+Tax,16/09/2014,0.07
+Tax,14/10/2014,0.09
+Tax,28/10/2014,0.08
+Tax,11/11/2014,0.08
+Tax,25/11/2014,0.07
+Tax,09/12/2014,0.09
+Tax,06/01/2015,0.07
+Tax,20/01/2015,0.09
+Tax,03/02/2015,0.10
+Tax,17/02/2015,0.13
+Tax,03/03/2015,0.13
+Tax,17/03/2015,0.10
+Tax,31/03/2015,0.11
+Tax,14/04/2015,0.11
+Tax,28/04/2015,0.10
+Tax,12/05/2015,0.11
+Tax,19/05/2015,0.09
+Tax,26/05/2015,0.09
+Tax,02/06/2015,0.08
+Tax,09/06/2015,0.09
+Tax,04/09/2015,0.06
+Tax,18/12/2015,0.05
+Tax,08/06/2016,0.05
+Tax,06/07/2016,0.05
+Tax,26/07/2016,0.04
+Tax,02/08/2016,0.05
+Tax,09/08/2016,0.04
+Tax,17/08/2016,0.05
+Tax,23/08/2016,0.05
+Tax,31/08/2016,0.05
+Tax,14/09/2016,0.05
+Tax,12/10/2016,0.05
+Tax,25/10/2016,0.04
+Tax,01/11/2016,0.04
+Tax,15/11/2016,0.04
+Tax,29/11/2016,0.05
+Tax,17/12/2016,0.05
+Tax,10/01/2017,0.05
+Tax,17/01/2017,0.04
+Tax,24/01/2017,0.05
+Tax,31/01/2017,0.05
+Tax,13/02/2017,0.04
+Tax,22/02/2017,0.06
+Tax,28/02/2017,0.05
+Tax,14/03/2017,0.07
+Tax,21/03/2017,0.06
+Tax,27/03/2017,0.05
+Tax,06/04/2017,0.06
+Tax,19/04/2017,0.05
+Tax,26/04/2017,0.06
+Tax,03/05/2017,0.05
+Tax,10/05/2017,0.06
+Tax,17/05/2017,0.06
+Tax,31/05/2017,0.05
+Tax,07/06/2017,0.03
+Tax,22/06/2017,0.04
+Tax,11/07/2017,0.05
+Tax,01/08/2017,0.04
+Tax,31/08/2017,0.04
+Tax,12/09/2017,0.04
+Tax,11/10/2017,0.03
+Tax,28/11/2017,0.05
+Tax,12/12/2017,0.05
+Tax,20/12/2017,0.04
+Tax,21/12/2017,0.05
+Pensions,15/02/2011,0.16
+Pensions,01/03/2011,0.18
+Pensions,15/03/2011,0.27
+Pensions,29/03/2011,0.23
+Pensions,12/04/2011,0.19
+Pensions,26/04/2011,0.21
+Pensions,10/05/2011,0.17
+Pensions,24/05/2011,0.20
+Pensions,07/06/2011,0.21
+Pensions,14/06/2011,0.19
+Pensions,21/06/2011,0.34
+Pensions,28/06/2011,0.36
+Pensions,05/07/2011,0.38
+Pensions,12/07/2011,0.34
+Pensions,19/07/2011,0.29
+Pensions,26/07/2011,0.27
+Pensions,09/08/2011,0.23
+Pensions,23/08/2011,0.22
+Pensions,06/09/2011,0.22
+Pensions,20/09/2011,0.29
+Pensions,04/10/2011,0.23
+Pensions,18/10/2011,0.25
+Pensions,01/11/2011,0.23
+Pensions,15/11/2011,0.23
+Pensions,29/11/2011,0.32
+Pensions,13/12/2011,0.30
+Pensions,03/01/2012,0.28
+Pensions,17/01/2012,0.25
+Pensions,31/01/2012,0.22
+Pensions,14/02/2012,0.22
+Pensions,20/02/2012,0.21
+Pensions,28/02/2012,0.21
+Pensions,13/03/2012,0.21
+Pensions,27/03/2012,0.25
+Pensions,10/04/2012,0.26
+Pensions,24/04/2012,0.25
+Pensions,08/05/2012,0.25
+Pensions,22/05/2012,0.23
+Pensions,07/06/2012,0.20
+Pensions,19/06/2012,0.25
+Pensions,03/07/2012,0.23
+Pensions,17/07/2012,0.23
+Pensions,31/07/2012,0.22
+Pensions,14/08/2012,0.22
+Pensions,28/08/2012,0.21
+Pensions,11/09/2012,0.20
+Pensions,25/09/2012,0.19
+Pensions,09/10/2012,0.21
+Pensions,23/10/2012,0.21
+Pensions,06/11/2012,0.22
+Pensions,20/11/2012,0.17
+Pensions,04/12/2012,0.19
+Pensions,15/01/2013,0.22
+Pensions,29/01/2013,0.17
+Pensions,12/02/2013,0.18
+Pensions,26/02/2013,0.16
+Pensions,05/03/2013,0.18
+Pensions,12/03/2013,0.19
+Pensions,19/03/2013,0.18
+Pensions,26/03/2013,0.17
+Pensions,02/04/2013,0.17
+Pensions,09/04/2013,0.15
+Pensions,16/04/2013,0.14
+Pensions,23/04/2013,0.17
+Pensions,30/04/2013,0.16
+Pensions,07/05/2013,0.15
+Pensions,21/05/2013,0.16
+Pensions,04/06/2013,0.15
+Pensions,18/06/2013,0.11
+Pensions,16/07/2013,0.11
+Pensions,30/07/2013,0.13
+Pensions,13/08/2013,0.11
+Pensions,27/08/2013,0.14
+Pensions,10/09/2013,0.14
+Pensions,08/10/2013,0.15
+Pensions,22/10/2013,0.14
+Pensions,05/11/2013,0.15
+Pensions,19/11/2013,0.15
+Pensions,03/12/2013,0.14
+Pensions,17/12/2013,0.18
+Pensions,14/01/2014,0.13
+Pensions,22/01/2014,0.16
+Pensions,28/01/2014,0.15
+Pensions,11/02/2014,0.14
+Pensions,25/02/2014,0.16
+Pensions,11/03/2014,0.12
+Pensions,25/03/2014,0.14
+Pensions,08/04/2014,0.14
+Pensions,13/05/2014,0.13
+Pensions,28/05/2014,0.12
+Pensions,10/06/2014,0.12
+Pensions,24/06/2014,0.12
+Pensions,08/07/2014,0.13
+Pensions,22/07/2014,0.12
+Pensions,05/08/2014,0.13
+Pensions,19/08/2014,0.12
+Pensions,02/09/2014,0.10
+Pensions,16/09/2014,0.12
+Pensions,14/10/2014,0.12
+Pensions,28/10/2014,0.11
+Pensions,11/11/2014,0.11
+Pensions,25/11/2014,0.11
+Pensions,09/12/2014,0.12
+Pensions,06/01/2015,0.08
+Pensions,20/01/2015,0.10
+Pensions,03/02/2015,0.11
+Pensions,17/02/2015,0.10
+Pensions,03/03/2015,0.11
+Pensions,17/03/2015,0.09
+Pensions,31/03/2015,0.11
+Pensions,14/04/2015,0.09
+Pensions,28/04/2015,0.09
+Pensions,12/05/2015,0.08
+Pensions,19/05/2015,0.08
+Pensions,26/05/2015,0.09
+Pensions,02/06/2015,0.08
+Pensions,09/06/2015,0.07
+Pensions,04/09/2015,0.08
+Pensions,18/12/2015,0.07
+Pensions,08/06/2016,0.08
+Pensions,06/07/2016,0.07
+Pensions,26/07/2016,0.07
+Pensions,02/08/2016,0.09
+Pensions,09/08/2016,0.08
+Pensions,17/08/2016,0.08
+Pensions,23/08/2016,0.08
+Pensions,31/08/2016,0.09
+Pensions,14/09/2016,0.10
+Pensions,12/10/2016,0.08
+Pensions,25/10/2016,0.09
+Pensions,01/11/2016,0.10
+Pensions,15/11/2016,0.10
+Pensions,29/11/2016,0.09
+Pensions,17/12/2016,0.08
+Pensions,10/01/2017,0.07
+Pensions,17/01/2017,0.08
+Pensions,24/01/2017,0.07
+Pensions,31/01/2017,0.08
+Pensions,13/02/2017,0.08
+Pensions,22/02/2017,0.10
+Pensions,28/02/2017,0.09
+Pensions,14/03/2017,0.09
+Pensions,21/03/2017,0.09
+Pensions,27/03/2017,0.09
+Pensions,06/04/2017,0.09
+Pensions,19/04/2017,0.07
+Pensions,26/04/2017,0.08
+Pensions,03/05/2017,0.10
+Pensions,10/05/2017,0.09
+Pensions,17/05/2017,0.08
+Pensions,31/05/2017,0.08
+Pensions,07/06/2017,0.07
+Pensions,22/06/2017,0.06
+Pensions,11/07/2017,0.06
+Pensions,01/08/2017,0.07
+Pensions,31/08/2017,0.07
+Pensions,12/09/2017,0.07
+Pensions,11/10/2017,0.08
+Pensions,28/11/2017,0.10
+Pensions,12/12/2017,0.06
+Pensions,20/12/2017,0.07
+Pensions,21/12/2017,0.08
+Education,15/02/2011,0.18
+Education,01/03/2011,0.18
+Education,15/03/2011,0.16
+Education,29/03/2011,0.16
+Education,12/04/2011,0.16
+Education,26/04/2011,0.16
+Education,10/05/2011,0.17
+Education,24/05/2011,0.16
+Education,07/06/2011,0.16
+Education,14/06/2011,0.15
+Education,21/06/2011,0.13
+Education,28/06/2011,0.14
+Education,05/07/2011,0.15
+Education,12/07/2011,0.14
+Education,19/07/2011,0.14
+Education,26/07/2011,0.13
+Education,09/08/2011,0.11
+Education,23/08/2011,0.16
+Education,06/09/2011,0.16
+Education,20/09/2011,0.15
+Education,04/10/2011,0.14
+Education,18/10/2011,0.11
+Education,01/11/2011,0.12
+Education,15/11/2011,0.14
+Education,29/11/2011,0.12
+Education,13/12/2011,0.12
+Education,03/01/2012,0.12
+Education,17/01/2012,0.14
+Education,31/01/2012,0.13
+Education,14/02/2012,0.13
+Education,20/02/2012,0.12
+Education,28/02/2012,0.14
+Education,13/03/2012,0.12
+Education,27/03/2012,0.13
+Education,10/04/2012,0.13
+Education,24/04/2012,0.13
+Education,08/05/2012,0.15
+Education,22/05/2012,0.13
+Education,07/06/2012,0.15
+Education,19/06/2012,0.13
+Education,03/07/2012,0.13
+Education,17/07/2012,0.13
+Education,31/07/2012,0.16
+Education,14/08/2012,0.14
+Education,28/08/2012,0.15
+Education,11/09/2012,0.16
+Education,25/09/2012,0.21
+Education,09/10/2012,0.15
+Education,23/10/2012,0.13
+Education,06/11/2012,0.16
+Education,20/11/2012,0.15
+Education,04/12/2012,0.14
+Education,15/01/2013,0.13
+Education,29/01/2013,0.14
+Education,12/02/2013,0.14
+Education,26/02/2013,0.14
+Education,05/03/2013,0.13
+Education,12/03/2013,0.13
+Education,19/03/2013,0.13
+Education,26/03/2013,0.13
+Education,02/04/2013,0.15
+Education,09/04/2013,0.13
+Education,16/04/2013,0.13
+Education,23/04/2013,0.16
+Education,30/04/2013,0.15
+Education,07/05/2013,0.14
+Education,21/05/2013,0.15
+Education,04/06/2013,0.14
+Education,18/06/2013,0.14
+Education,16/07/2013,0.13
+Education,30/07/2013,0.13
+Education,13/08/2013,0.12
+Education,27/08/2013,0.13
+Education,10/09/2013,0.12
+Education,08/10/2013,0.14
+Education,22/10/2013,0.15
+Education,05/11/2013,0.14
+Education,19/11/2013,0.13
+Education,03/12/2013,0.14
+Education,17/12/2013,0.15
+Education,14/01/2014,0.12
+Education,22/01/2014,0.14
+Education,28/01/2014,0.13
+Education,11/02/2014,0.15
+Education,25/02/2014,0.14
+Education,11/03/2014,0.15
+Education,25/03/2014,0.17
+Education,08/04/2014,0.15
+Education,13/05/2014,0.17
+Education,28/05/2014,0.16
+Education,10/06/2014,0.17
+Education,24/06/2014,0.16
+Education,08/07/2014,0.15
+Education,22/07/2014,0.15
+Education,05/08/2014,0.16
+Education,19/08/2014,0.15
+Education,02/09/2014,0.15
+Education,16/09/2014,0.16
+Education,14/10/2014,0.15
+Education,28/10/2014,0.12
+Education,11/11/2014,0.13
+Education,25/11/2014,0.13
+Education,09/12/2014,0.13
+Education,06/01/2015,0.15
+Education,20/01/2015,0.14
+Education,03/02/2015,0.18
+Education,17/02/2015,0.14
+Education,03/03/2015,0.16
+Education,17/03/2015,0.16
+Education,31/03/2015,0.16
+Education,14/04/2015,0.17
+Education,28/04/2015,0.17
+Education,12/05/2015,0.15
+Education,19/05/2015,0.15
+Education,26/05/2015,0.16
+Education,02/06/2015,0.14
+Education,09/06/2015,0.15
+Education,04/09/2015,0.12
+Education,18/12/2015,0.11
+Education,08/06/2016,0.15
+Education,06/07/2016,0.12
+Education,26/07/2016,0.11
+Education,02/08/2016,0.11
+Education,09/08/2016,0.12
+Education,17/08/2016,0.14
+Education,23/08/2016,0.13
+Education,31/08/2016,0.14
+Education,14/09/2016,0.14
+Education,12/10/2016,0.11
+Education,25/10/2016,0.11
+Education,01/11/2016,0.12
+Education,15/11/2016,0.12
+Education,29/11/2016,0.10
+Education,17/12/2016,0.11
+Education,10/01/2017,0.11
+Education,17/01/2017,0.11
+Education,24/01/2017,0.12
+Education,31/01/2017,0.11
+Education,13/02/2017,0.12
+Education,22/02/2017,0.13
+Education,28/02/2017,0.13
+Education,14/03/2017,0.15
+Education,21/03/2017,0.17
+Education,27/03/2017,0.15
+Education,06/04/2017,0.14
+Education,19/04/2017,0.15
+Education,26/04/2017,0.16
+Education,03/05/2017,0.19
+Education,10/05/2017,0.16
+Education,17/05/2017,0.18
+Education,31/05/2017,0.17
+Education,07/06/2017,0.14
+Education,22/06/2017,0.15
+Education,11/07/2017,0.16
+Education,01/08/2017,0.13
+Education,31/08/2017,0.14
+Education,12/09/2017,0.14
+Education,11/10/2017,0.15
+Education,28/11/2017,0.12
+Education,12/12/2017,0.14
+Education,20/12/2017,0.11
+Education,21/12/2017,0.15
+Family life & childcare,15/02/2011,0.08
+Family life & childcare,01/03/2011,0.09
+Family life & childcare,15/03/2011,0.07
+Family life & childcare,29/03/2011,0.10
+Family life & childcare,12/04/2011,0.09
+Family life & childcare,26/04/2011,0.08
+Family life & childcare,10/05/2011,0.08
+Family life & childcare,24/05/2011,0.09
+Family life & childcare,07/06/2011,0.08
+Family life & childcare,14/06/2011,0.09
+Family life & childcare,21/06/2011,0.07
+Family life & childcare,28/06/2011,0.06
+Family life & childcare,05/07/2011,0.07
+Family life & childcare,12/07/2011,0.08
+Family life & childcare,19/07/2011,0.07
+Family life & childcare,26/07/2011,0.07
+Family life & childcare,09/08/2011,0.06
+Family life & childcare,23/08/2011,0.10
+Family life & childcare,06/09/2011,0.09
+Family life & childcare,20/09/2011,0.08
+Family life & childcare,04/10/2011,0.07
+Family life & childcare,18/10/2011,0.10
+Family life & childcare,01/11/2011,0.08
+Family life & childcare,15/11/2011,0.07
+Family life & childcare,29/11/2011,0.08
+Family life & childcare,13/12/2011,0.06
+Family life & childcare,03/01/2012,0.07
+Family life & childcare,17/01/2012,0.09
+Family life & childcare,31/01/2012,0.09
+Family life & childcare,14/02/2012,0.10
+Family life & childcare,20/02/2012,0.10
+Family life & childcare,28/02/2012,0.10
+Family life & childcare,13/03/2012,0.10
+Family life & childcare,27/03/2012,0.08
+Family life & childcare,10/04/2012,0.08
+Family life & childcare,24/04/2012,0.11
+Family life & childcare,08/05/2012,0.11
+Family life & childcare,22/05/2012,0.09
+Family life & childcare,07/06/2012,0.12
+Family life & childcare,19/06/2012,0.11
+Family life & childcare,03/07/2012,0.09
+Family life & childcare,17/07/2012,0.09
+Family life & childcare,31/07/2012,0.08
+Family life & childcare,14/08/2012,0.08
+Family life & childcare,28/08/2012,0.07
+Family life & childcare,11/09/2012,0.10
+Family life & childcare,25/09/2012,0.08
+Family life & childcare,09/10/2012,0.09
+Family life & childcare,23/10/2012,0.08
+Family life & childcare,06/11/2012,0.10
+Family life & childcare,20/11/2012,0.10
+Family life & childcare,04/12/2012,0.08
+Family life & childcare,15/01/2013,0.11
+Family life & childcare,29/01/2013,0.10
+Family life & childcare,12/02/2013,0.09
+Family life & childcare,26/02/2013,0.09
+Family life & childcare,05/03/2013,0.09
+Family life & childcare,12/03/2013,0.11
+Family life & childcare,19/03/2013,0.11
+Family life & childcare,26/03/2013,0.09
+Family life & childcare,02/04/2013,0.13
+Family life & childcare,09/04/2013,0.10
+Family life & childcare,16/04/2013,0.14
+Family life & childcare,23/04/2013,0.09
+Family life & childcare,30/04/2013,0.10
+Family life & childcare,07/05/2013,0.09
+Family life & childcare,21/05/2013,0.10
+Family life & childcare,04/06/2013,0.09
+Family life & childcare,18/06/2013,0.06
+Family life & childcare,16/07/2013,0.06
+Family life & childcare,30/07/2013,0.06
+Family life & childcare,13/08/2013,0.06
+Family life & childcare,27/08/2013,0.06
+Family life & childcare,10/09/2013,0.06
+Family life & childcare,08/10/2013,0.07
+Family life & childcare,22/10/2013,0.07
+Family life & childcare,05/11/2013,0.07
+Family life & childcare,19/11/2013,0.07
+Family life & childcare,03/12/2013,0.07
+Family life & childcare,17/12/2013,0.07
+Family life & childcare,14/01/2014,0.05
+Family life & childcare,22/01/2014,0.06
+Family life & childcare,28/01/2014,0.06
+Family life & childcare,11/02/2014,0.06
+Family life & childcare,25/02/2014,0.06
+Family life & childcare,11/03/2014,0.07
+Family life & childcare,25/03/2014,0.06
+Family life & childcare,08/04/2014,0.07
+Family life & childcare,13/05/2014,0.07
+Family life & childcare,28/05/2014,0.06
+Family life & childcare,10/06/2014,0.06
+Family life & childcare,24/06/2014,0.05
+Family life & childcare,08/07/2014,0.07
+Family life & childcare,22/07/2014,0.06
+Family life & childcare,05/08/2014,0.05
+Family life & childcare,19/08/2014,0.08
+Family life & childcare,02/09/2014,0.06
+Family life & childcare,16/09/2014,0.06
+Family life & childcare,14/10/2014,0.05
+Family life & childcare,28/10/2014,0.05
+Family life & childcare,11/11/2014,0.06
+Family life & childcare,25/11/2014,0.06
+Family life & childcare,09/12/2014,0.08
+Family life & childcare,06/01/2015,0.06
+Family life & childcare,20/01/2015,0.06
+Family life & childcare,03/02/2015,0.07
+Family life & childcare,17/02/2015,0.07
+Family life & childcare,03/03/2015,0.07
+Family life & childcare,17/03/2015,0.07
+Family life & childcare,31/03/2015,0.08
+Family life & childcare,14/04/2015,0.07
+Family life & childcare,28/04/2015,0.07
+Family life & childcare,12/05/2015,0.07
+Family life & childcare,19/05/2015,0.06
+Family life & childcare,26/05/2015,0.07
+Family life & childcare,02/06/2015,0.06
+Family life & childcare,09/06/2015,0.06
+Family life & childcare,04/09/2015,0.05
+Family life & childcare,18/12/2015,0.05
+Family life & childcare,08/06/2016,0.04
+Family life & childcare,06/07/2016,0.04
+Family life & childcare,26/07/2016,0.04
+Family life & childcare,02/08/2016,0.04
+Family life & childcare,09/08/2016,0.04
+Family life & childcare,17/08/2016,0.04
+Family life & childcare,23/08/2016,0.05
+Family life & childcare,31/08/2016,0.04
+Family life & childcare,14/09/2016,0.03
+Family life & childcare,12/10/2016,0.04
+Family life & childcare,25/10/2016,0.04
+Family life & childcare,01/11/2016,0.05
+Family life & childcare,15/11/2016,0.04
+Family life & childcare,29/11/2016,0.06
+Family life & childcare,17/12/2016,0.04
+Family life & childcare,10/01/2017,0.03
+Family life & childcare,17/01/2017,0.04
+Family life & childcare,24/01/2017,0.04
+Family life & childcare,31/01/2017,0.04
+Family life & childcare,13/02/2017,0.05
+Family life & childcare,22/02/2017,0.05
+Family life & childcare,28/02/2017,0.04
+Family life & childcare,14/03/2017,0.04
+Family life & childcare,21/03/2017,0.04
+Family life & childcare,27/03/2017,0.04
+Family life & childcare,06/04/2017,0.04
+Family life & childcare,19/04/2017,0.05
+Family life & childcare,26/04/2017,0.05
+Family life & childcare,03/05/2017,0.05
+Family life & childcare,10/05/2017,0.05
+Family life & childcare,17/05/2017,0.04
+Family life & childcare,31/05/2017,0.04
+Family life & childcare,07/06/2017,0.03
+Family life & childcare,22/06/2017,0.04
+Family life & childcare,11/07/2017,0.04
+Family life & childcare,01/08/2017,0.04
+Family life & childcare,31/08/2017,0.05
+Family life & childcare,12/09/2017,0.05
+Family life & childcare,11/10/2017,0.04
+Family life & childcare,28/11/2017,0.03
+Family life & childcare,12/12/2017,0.05
+Family life & childcare,20/12/2017,0.05
+Family life & childcare,21/12/2017,0.06
+Housing,15/02/2011,0.00
+Housing,01/03/2011,0.00
+Housing,15/03/2011,0.00
+Housing,29/03/2011,0.00
+Housing,12/04/2011,0.00
+Housing,26/04/2011,0.00
+Housing,10/05/2011,0.00
+Housing,24/05/2011,0.00
+Housing,07/06/2011,0.00
+Housing,14/06/2011,0.00
+Housing,21/06/2011,0.00
+Housing,28/06/2011,0.00
+Housing,05/07/2011,0.00
+Housing,12/07/2011,0.00
+Housing,19/07/2011,0.00
+Housing,26/07/2011,0.00
+Housing,09/08/2011,0.00
+Housing,23/08/2011,0.00
+Housing,06/09/2011,0.00
+Housing,20/09/2011,0.00
+Housing,04/10/2011,0.00
+Housing,18/10/2011,0.00
+Housing,01/11/2011,0.00
+Housing,15/11/2011,0.00
+Housing,29/11/2011,0.00
+Housing,13/12/2011,0.00
+Housing,03/01/2012,0.00
+Housing,17/01/2012,0.00
+Housing,31/01/2012,0.00
+Housing,14/02/2012,0.00
+Housing,20/02/2012,0.00
+Housing,28/02/2012,0.00
+Housing,13/03/2012,0.00
+Housing,27/03/2012,0.00
+Housing,10/04/2012,0.00
+Housing,24/04/2012,0.00
+Housing,08/05/2012,0.00
+Housing,22/05/2012,0.00
+Housing,07/06/2012,0.00
+Housing,19/06/2012,0.00
+Housing,03/07/2012,0.00
+Housing,17/07/2012,0.00
+Housing,31/07/2012,0.00
+Housing,14/08/2012,0.00
+Housing,28/08/2012,0.00
+Housing,11/09/2012,0.00
+Housing,25/09/2012,0.00
+Housing,09/10/2012,0.00
+Housing,23/10/2012,0.00
+Housing,06/11/2012,0.00
+Housing,20/11/2012,0.00
+Housing,04/12/2012,0.00
+Housing,15/01/2013,0.00
+Housing,29/01/2013,0.00
+Housing,12/02/2013,0.00
+Housing,26/02/2013,0.00
+Housing,05/03/2013,0.00
+Housing,12/03/2013,0.00
+Housing,19/03/2013,0.00
+Housing,26/03/2013,0.00
+Housing,02/04/2013,0.00
+Housing,09/04/2013,0.00
+Housing,16/04/2013,0.00
+Housing,23/04/2013,0.00
+Housing,30/04/2013,0.00
+Housing,07/05/2013,0.00
+Housing,21/05/2013,0.00
+Housing,04/06/2013,0.00
+Housing,18/06/2013,0.13
+Housing,16/07/2013,0.16
+Housing,30/07/2013,0.16
+Housing,13/08/2013,0.16
+Housing,27/08/2013,0.17
+Housing,10/09/2013,0.16
+Housing,08/10/2013,0.17
+Housing,22/10/2013,0.17
+Housing,05/11/2013,0.15
+Housing,19/11/2013,0.15
+Housing,03/12/2013,0.16
+Housing,17/12/2013,0.16
+Housing,14/01/2014,0.16
+Housing,22/01/2014,0.16
+Housing,28/01/2014,0.14
+Housing,11/02/2014,0.17
+Housing,25/02/2014,0.17
+Housing,11/03/2014,0.16
+Housing,25/03/2014,0.15
+Housing,08/04/2014,0.18
+Housing,13/05/2014,0.20
+Housing,28/05/2014,0.20
+Housing,10/06/2014,0.21
+Housing,24/06/2014,0.20
+Housing,08/07/2014,0.20
+Housing,22/07/2014,0.21
+Housing,05/08/2014,0.19
+Housing,19/08/2014,0.19
+Housing,02/09/2014,0.19
+Housing,16/09/2014,0.19
+Housing,14/10/2014,0.17
+Housing,28/10/2014,0.16
+Housing,11/11/2014,0.16
+Housing,25/11/2014,0.18
+Housing,09/12/2014,0.20
+Housing,06/01/2015,0.19
+Housing,20/01/2015,0.17
+Housing,03/02/2015,0.17
+Housing,17/02/2015,0.19
+Housing,03/03/2015,0.22
+Housing,17/03/2015,0.23
+Housing,31/03/2015,0.21
+Housing,14/04/2015,0.21
+Housing,28/04/2015,0.27
+Housing,12/05/2015,0.19
+Housing,19/05/2015,0.20
+Housing,26/05/2015,0.21
+Housing,02/06/2015,0.21
+Housing,09/06/2015,0.19
+Housing,04/09/2015,0.19
+Housing,18/12/2015,0.26
+Housing,08/06/2016,0.22
+Housing,06/07/2016,0.19
+Housing,26/07/2016,0.17
+Housing,02/08/2016,0.17
+Housing,09/08/2016,0.20
+Housing,17/08/2016,0.22
+Housing,23/08/2016,0.20
+Housing,31/08/2016,0.23
+Housing,14/09/2016,0.19
+Housing,12/10/2016,0.18
+Housing,25/10/2016,0.18
+Housing,01/11/2016,0.18
+Housing,15/11/2016,0.17
+Housing,29/11/2016,0.20
+Housing,17/12/2016,0.17
+Housing,10/01/2017,0.19
+Housing,17/01/2017,0.19
+Housing,24/01/2017,0.19
+Housing,31/01/2017,0.18
+Housing,13/02/2017,0.20
+Housing,22/02/2017,0.20
+Housing,28/02/2017,0.20
+Housing,14/03/2017,0.18
+Housing,21/03/2017,0.19
+Housing,27/03/2017,0.18
+Housing,06/04/2017,0.18
+Housing,19/04/2017,0.15
+Housing,26/04/2017,0.16
+Housing,03/05/2017,0.17
+Housing,10/05/2017,0.15
+Housing,17/05/2017,0.16
+Housing,31/05/2017,0.14
+Housing,07/06/2017,0.10
+Housing,22/06/2017,0.15
+Housing,11/07/2017,0.16
+Housing,01/08/2017,0.18
+Housing,31/08/2017,0.15
+Housing,12/09/2017,0.16
+Housing,11/10/2017,0.19
+Housing,28/11/2017,0.19
+Housing,12/12/2017,0.20
+Housing,20/12/2017,0.22
+Housing,21/12/2017,0.23
+The environment,15/02/2011,0.07
+The environment,01/03/2011,0.08
+The environment,15/03/2011,0.08
+The environment,29/03/2011,0.08
+The environment,12/04/2011,0.08
+The environment,26/04/2011,0.06
+The environment,10/05/2011,0.08
+The environment,24/05/2011,0.07
+The environment,07/06/2011,0.07
+The environment,14/06/2011,0.08
+The environment,21/06/2011,0.08
+The environment,28/06/2011,0.06
+The environment,05/07/2011,0.07
+The environment,12/07/2011,0.07
+The environment,19/07/2011,0.07
+The environment,26/07/2011,0.07
+The environment,09/08/2011,0.06
+The environment,23/08/2011,0.05
+The environment,06/09/2011,0.06
+The environment,20/09/2011,0.06
+The environment,04/10/2011,0.06
+The environment,18/10/2011,0.07
+The environment,01/11/2011,0.07
+The environment,15/11/2011,0.06
+The environment,29/11/2011,0.06
+The environment,13/12/2011,0.06
+The environment,03/01/2012,0.06
+The environment,17/01/2012,0.07
+The environment,31/01/2012,0.07
+The environment,14/02/2012,0.05
+The environment,20/02/2012,0.08
+The environment,28/02/2012,0.07
+The environment,13/03/2012,0.07
+The environment,27/03/2012,0.06
+The environment,10/04/2012,0.06
+The environment,24/04/2012,0.06
+The environment,08/05/2012,0.07
+The environment,22/05/2012,0.07
+The environment,07/06/2012,0.06
+The environment,19/06/2012,0.07
+The environment,03/07/2012,0.06
+The environment,17/07/2012,0.08
+The environment,31/07/2012,0.07
+The environment,14/08/2012,0.08
+The environment,28/08/2012,0.06
+The environment,11/09/2012,0.07
+The environment,25/09/2012,0.08
+The environment,09/10/2012,0.06
+The environment,23/10/2012,0.06
+The environment,06/11/2012,0.09
+The environment,20/11/2012,0.07
+The environment,04/12/2012,0.09
+The environment,15/01/2013,0.08
+The environment,29/01/2013,0.09
+The environment,12/02/2013,0.09
+The environment,26/02/2013,0.06
+The environment,05/03/2013,0.07
+The environment,12/03/2013,0.07
+The environment,19/03/2013,0.07
+The environment,26/03/2013,0.10
+The environment,02/04/2013,0.07
+The environment,09/04/2013,0.07
+The environment,16/04/2013,0.07
+The environment,23/04/2013,0.08
+The environment,30/04/2013,0.09
+The environment,07/05/2013,0.10
+The environment,21/05/2013,0.08
+The environment,04/06/2013,0.09
+The environment,18/06/2013,0.06
+The environment,16/07/2013,0.06
+The environment,30/07/2013,0.05
+The environment,13/08/2013,0.06
+The environment,27/08/2013,0.08
+The environment,10/09/2013,0.06
+The environment,08/10/2013,0.08
+The environment,22/10/2013,0.07
+The environment,05/11/2013,0.07
+The environment,19/11/2013,0.08
+The environment,03/12/2013,0.08
+The environment,17/12/2013,0.06
+The environment,14/01/2014,0.06
+The environment,22/01/2014,0.08
+The environment,28/01/2014,0.09
+The environment,11/02/2014,0.23
+The environment,25/02/2014,0.13
+The environment,11/03/2014,0.11
+The environment,25/03/2014,0.10
+The environment,08/04/2014,0.11
+The environment,13/05/2014,0.10
+The environment,28/05/2014,0.09
+The environment,10/06/2014,0.08
+The environment,24/06/2014,0.08
+The environment,08/07/2014,0.09
+The environment,22/07/2014,0.09
+The environment,05/08/2014,0.10
+The environment,19/08/2014,0.09
+The environment,02/09/2014,0.09
+The environment,16/09/2014,0.10
+The environment,14/10/2014,0.08
+The environment,28/10/2014,0.09
+The environment,11/11/2014,0.09
+The environment,25/11/2014,0.11
+The environment,09/12/2014,0.10
+The environment,06/01/2015,0.09
+The environment,20/01/2015,0.09
+The environment,03/02/2015,0.07
+The environment,17/02/2015,0.10
+The environment,03/03/2015,0.08
+The environment,17/03/2015,0.09
+The environment,31/03/2015,0.09
+The environment,14/04/2015,0.09
+The environment,28/04/2015,0.09
+The environment,12/05/2015,0.09
+The environment,19/05/2015,0.10
+The environment,26/05/2015,0.09
+The environment,02/06/2015,0.08
+The environment,09/06/2015,0.10
+The environment,04/09/2015,0.11
+The environment,18/12/2015,0.12
+The environment,08/06/2016,0.09
+The environment,06/07/2016,0.07
+The environment,26/07/2016,0.10
+The environment,02/08/2016,0.08
+The environment,09/08/2016,0.08
+The environment,17/08/2016,0.08
+The environment,23/08/2016,0.09
+The environment,31/08/2016,0.08
+The environment,14/09/2016,0.08
+The environment,12/10/2016,0.09
+The environment,25/10/2016,0.09
+The environment,01/11/2016,0.09
+The environment,15/11/2016,0.11
+The environment,29/11/2016,0.11
+The environment,17/12/2016,0.08
+The environment,10/01/2017,0.09
+The environment,17/01/2017,0.08
+The environment,24/01/2017,0.10
+The environment,31/01/2017,0.09
+The environment,13/02/2017,0.10
+The environment,22/02/2017,0.10
+The environment,28/02/2017,0.10
+The environment,14/03/2017,0.09
+The environment,21/03/2017,0.09
+The environment,27/03/2017,0.09
+The environment,06/04/2017,0.11
+The environment,19/04/2017,0.10
+The environment,26/04/2017,0.08
+The environment,03/05/2017,0.08
+The environment,10/05/2017,0.10
+The environment,17/05/2017,0.08
+The environment,31/05/2017,0.07
+The environment,07/06/2017,0.07
+The environment,22/06/2017,0.07
+The environment,11/07/2017,0.09
+The environment,01/08/2017,0.09
+The environment,31/08/2017,0.09
+The environment,12/09/2017,0.11
+The environment,11/10/2017,0.09
+The environment,28/11/2017,0.09
+The environment,12/12/2017,0.11
+The environment,20/12/2017,0.09
+The environment,21/12/2017,0.11
+Britain leaving the EU,15/02/2011,0.08
+Britain leaving the EU,01/03/2011,0.07
+Britain leaving the EU,15/03/2011,0.07
+Britain leaving the EU,29/03/2011,0.08
+Britain leaving the EU,12/04/2011,0.07
+Britain leaving the EU,26/04/2011,0.10
+Britain leaving the EU,10/05/2011,0.09
+Britain leaving the EU,24/05/2011,0.07
+Britain leaving the EU,07/06/2011,0.07
+Britain leaving the EU,14/06/2011,0.07
+Britain leaving the EU,21/06/2011,0.09
+Britain leaving the EU,28/06/2011,0.12
+Britain leaving the EU,05/07/2011,0.11
+Britain leaving the EU,12/07/2011,0.10
+Britain leaving the EU,19/07/2011,0.14
+Britain leaving the EU,26/07/2011,0.17
+Britain leaving the EU,09/08/2011,0.13
+Britain leaving the EU,23/08/2011,0.10
+Britain leaving the EU,06/09/2011,0.10
+Britain leaving the EU,20/09/2011,0.15
+Britain leaving the EU,04/10/2011,0.22
+Britain leaving the EU,18/10/2011,0.18
+Britain leaving the EU,01/11/2011,0.29
+Britain leaving the EU,15/11/2011,0.29
+Britain leaving the EU,29/11/2011,0.26
+Britain leaving the EU,13/12/2011,0.38
+Britain leaving the EU,03/01/2012,0.27
+Britain leaving the EU,17/01/2012,0.28
+Britain leaving the EU,31/01/2012,0.24
+Britain leaving the EU,14/02/2012,0.23
+Britain leaving the EU,20/02/2012,0.23
+Britain leaving the EU,28/02/2012,0.18
+Britain leaving the EU,13/03/2012,0.12
+Britain leaving the EU,27/03/2012,0.12
+Britain leaving the EU,10/04/2012,0.11
+Britain leaving the EU,24/04/2012,0.17
+Britain leaving the EU,08/05/2012,0.19
+Britain leaving the EU,22/05/2012,0.28
+Britain leaving the EU,07/06/2012,0.17
+Britain leaving the EU,19/06/2012,0.31
+Britain leaving the EU,03/07/2012,0.29
+Britain leaving the EU,17/07/2012,0.21
+Britain leaving the EU,31/07/2012,0.21
+Britain leaving the EU,14/08/2012,0.20
+Britain leaving the EU,28/08/2012,0.22
+Britain leaving the EU,11/09/2012,0.16
+Britain leaving the EU,25/09/2012,0.14
+Britain leaving the EU,09/10/2012,0.15
+Britain leaving the EU,23/10/2012,0.18
+Britain leaving the EU,06/11/2012,0.19
+Britain leaving the EU,20/11/2012,0.23
+Britain leaving the EU,04/12/2012,0.22
+Britain leaving the EU,15/01/2013,0.21
+Britain leaving the EU,29/01/2013,0.25
+Britain leaving the EU,12/02/2013,0.20
+Britain leaving the EU,26/02/2013,0.20
+Britain leaving the EU,05/03/2013,0.20
+Britain leaving the EU,12/03/2013,0.19
+Britain leaving the EU,19/03/2013,0.20
+Britain leaving the EU,26/03/2013,0.20
+Britain leaving the EU,02/04/2013,0.17
+Britain leaving the EU,09/04/2013,0.21
+Britain leaving the EU,16/04/2013,0.20
+Britain leaving the EU,23/04/2013,0.18
+Britain leaving the EU,30/04/2013,0.21
+Britain leaving the EU,07/05/2013,0.22
+Britain leaving the EU,21/05/2013,0.27
+Britain leaving the EU,04/06/2013,0.22
+Britain leaving the EU,18/06/2013,0.13
+Britain leaving the EU,16/07/2013,0.14
+Britain leaving the EU,30/07/2013,0.12
+Britain leaving the EU,13/08/2013,0.13
+Britain leaving the EU,27/08/2013,0.13
+Britain leaving the EU,10/09/2013,0.11
+Britain leaving the EU,08/10/2013,0.10
+Britain leaving the EU,22/10/2013,0.11
+Britain leaving the EU,05/11/2013,0.13
+Britain leaving the EU,19/11/2013,0.12
+Britain leaving the EU,03/12/2013,0.12
+Britain leaving the EU,17/12/2013,0.11
+Britain leaving the EU,14/01/2014,0.14
+Britain leaving the EU,22/01/2014,0.13
+Britain leaving the EU,28/01/2014,0.13
+Britain leaving the EU,11/02/2014,0.11
+Britain leaving the EU,25/02/2014,0.12
+Britain leaving the EU,11/03/2014,0.17
+Britain leaving the EU,25/03/2014,0.13
+Britain leaving the EU,08/04/2014,0.17
+Britain leaving the EU,13/05/2014,0.14
+Britain leaving the EU,28/05/2014,0.23
+Britain leaving the EU,10/06/2014,0.18
+Britain leaving the EU,24/06/2014,0.17
+Britain leaving the EU,08/07/2014,0.17
+Britain leaving the EU,22/07/2014,0.21
+Britain leaving the EU,05/08/2014,0.16
+Britain leaving the EU,19/08/2014,0.17
+Britain leaving the EU,02/09/2014,0.19
+Britain leaving the EU,16/09/2014,0.17
+Britain leaving the EU,14/10/2014,0.15
+Britain leaving the EU,28/10/2014,0.25
+Britain leaving the EU,11/11/2014,0.24
+Britain leaving the EU,25/11/2014,0.25
+Britain leaving the EU,09/12/2014,0.20
+Britain leaving the EU,06/01/2015,0.19
+Britain leaving the EU,20/01/2015,0.18
+Britain leaving the EU,03/02/2015,0.17
+Britain leaving the EU,17/02/2015,0.20
+Britain leaving the EU,03/03/2015,0.17
+Britain leaving the EU,17/03/2015,0.17
+Britain leaving the EU,31/03/2015,0.15
+Britain leaving the EU,14/04/2015,0.16
+Britain leaving the EU,28/04/2015,0.15
+Britain leaving the EU,12/05/2015,0.24
+Britain leaving the EU,19/05/2015,0.22
+Britain leaving the EU,26/05/2015,0.26
+Britain leaving the EU,02/06/2015,0.27
+Britain leaving the EU,09/06/2015,0.29
+Britain leaving the EU,04/09/2015,0.22
+Britain leaving the EU,18/12/2015,0.27
+Britain leaving the EU,08/06/2016,0.19
+Britain leaving the EU,06/07/2016,0.41
+Britain leaving the EU,26/07/2016,0.65
+Britain leaving the EU,02/08/2016,0.60
+Britain leaving the EU,09/08/2016,0.56
+Britain leaving the EU,17/08/2016,0.57
+Britain leaving the EU,23/08/2016,0.56
+Britain leaving the EU,31/08/2016,0.57
+Britain leaving the EU,14/09/2016,0.57
+Britain leaving the EU,12/10/2016,0.57
+Britain leaving the EU,25/10/2016,0.63
+Britain leaving the EU,01/11/2016,0.64
+Britain leaving the EU,15/11/2016,0.61
+Britain leaving the EU,29/11/2016,0.60
+Britain leaving the EU,17/12/2016,0.60
+Britain leaving the EU,10/01/2017,0.62
+Britain leaving the EU,17/01/2017,0.60
+Britain leaving the EU,24/01/2017,0.61
+Britain leaving the EU,31/01/2017,0.64
+Britain leaving the EU,13/02/2017,0.59
+Britain leaving the EU,22/02/2017,0.62
+Britain leaving the EU,28/02/2017,0.62
+Britain leaving the EU,14/03/2017,0.62
+Britain leaving the EU,21/03/2017,0.62
+Britain leaving the EU,27/03/2017,0.64
+Britain leaving the EU,06/04/2017,0.63
+Britain leaving the EU,19/04/2017,0.68
+Britain leaving the EU,26/04/2017,0.64
+Britain leaving the EU,03/05/2017,0.64
+Britain leaving the EU,10/05/2017,0.63
+Britain leaving the EU,17/05/2017,0.62
+Britain leaving the EU,31/05/2017,0.56
+Britain leaving the EU,07/06/2017,0.57
+Britain leaving the EU,22/06/2017,0.64
+Britain leaving the EU,11/07/2017,0.64
+Britain leaving the EU,01/08/2017,0.65
+Britain leaving the EU,31/08/2017,0.61
+Britain leaving the EU,12/09/2017,0.66
+Britain leaving the EU,11/10/2017,0.65
+Britain leaving the EU,28/11/2017,0.58
+Britain leaving the EU,12/12/2017,0.63
+Britain leaving the EU,20/12/2017,0.65
+Britain leaving the EU,21/12/2017,0.56
+Transport,15/02/2011,0.05
+Transport,01/03/2011,0.05
+Transport,15/03/2011,0.05
+Transport,29/03/2011,0.06
+Transport,12/04/2011,0.05
+Transport,26/04/2011,0.05
+Transport,10/05/2011,0.04
+Transport,24/05/2011,0.04
+Transport,07/06/2011,0.03
+Transport,14/06/2011,0.03
+Transport,21/06/2011,0.03
+Transport,28/06/2011,0.03
+Transport,05/07/2011,0.03
+Transport,12/07/2011,0.03
+Transport,19/07/2011,0.03
+Transport,26/07/2011,0.03
+Transport,09/08/2011,0.02
+Transport,23/08/2011,0.03
+Transport,06/09/2011,0.03
+Transport,20/09/2011,0.03
+Transport,04/10/2011,0.02
+Transport,18/10/2011,0.02
+Transport,01/11/2011,0.02
+Transport,15/11/2011,0.03
+Transport,29/11/2011,0.03
+Transport,13/12/2011,0.03
+Transport,03/01/2012,0.03
+Transport,17/01/2012,0.03
+Transport,31/01/2012,0.04
+Transport,14/02/2012,0.03
+Transport,20/02/2012,0.03
+Transport,28/02/2012,0.04
+Transport,13/03/2012,0.05
+Transport,27/03/2012,0.07
+Transport,10/04/2012,0.05
+Transport,24/04/2012,0.05
+Transport,08/05/2012,0.04
+Transport,22/05/2012,0.04
+Transport,07/06/2012,0.05
+Transport,19/06/2012,0.02
+Transport,03/07/2012,0.02
+Transport,17/07/2012,0.03
+Transport,31/07/2012,0.03
+Transport,14/08/2012,0.04
+Transport,28/08/2012,0.05
+Transport,11/09/2012,0.04
+Transport,25/09/2012,0.03
+Transport,09/10/2012,0.03
+Transport,23/10/2012,0.03
+Transport,06/11/2012,0.04
+Transport,20/11/2012,0.03
+Transport,04/12/2012,0.04
+Transport,15/01/2013,0.05
+Transport,29/01/2013,0.04
+Transport,12/02/2013,0.03
+Transport,26/02/2013,0.04
+Transport,05/03/2013,0.03
+Transport,12/03/2013,0.03
+Transport,19/03/2013,0.03
+Transport,26/03/2013,0.03
+Transport,02/04/2013,0.03
+Transport,09/04/2013,0.03
+Transport,16/04/2013,0.03
+Transport,23/04/2013,0.04
+Transport,30/04/2013,0.03
+Transport,07/05/2013,0.03
+Transport,21/05/2013,0.03
+Transport,04/06/2013,0.02
+Transport,18/06/2013,0.02
+Transport,16/07/2013,0.02
+Transport,30/07/2013,0.03
+Transport,13/08/2013,0.03
+Transport,27/08/2013,0.03
+Transport,10/09/2013,0.03
+Transport,08/10/2013,0.03
+Transport,22/10/2013,0.03
+Transport,05/11/2013,0.04
+Transport,19/11/2013,0.02
+Transport,03/12/2013,0.03
+Transport,17/12/2013,0.03
+Transport,14/01/2014,0.03
+Transport,22/01/2014,0.03
+Transport,28/01/2014,0.03
+Transport,11/02/2014,0.04
+Transport,25/02/2014,0.03
+Transport,11/03/2014,0.02
+Transport,25/03/2014,0.03
+Transport,08/04/2014,0.03
+Transport,13/05/2014,0.03
+Transport,28/05/2014,0.02
+Transport,10/06/2014,0.02
+Transport,24/06/2014,0.02
+Transport,08/07/2014,0.03
+Transport,22/07/2014,0.02
+Transport,05/08/2014,0.03
+Transport,19/08/2014,0.02
+Transport,02/09/2014,0.03
+Transport,16/09/2014,0.02
+Transport,14/10/2014,0.03
+Transport,28/10/2014,0.02
+Transport,11/11/2014,0.03
+Transport,25/11/2014,0.03
+Transport,09/12/2014,0.03
+Transport,06/01/2015,0.03
+Transport,20/01/2015,0.03
+Transport,03/02/2015,0.03
+Transport,17/02/2015,0.04
+Transport,03/03/2015,0.03
+Transport,17/03/2015,0.02
+Transport,31/03/2015,0.03
+Transport,14/04/2015,0.03
+Transport,28/04/2015,0.03
+Transport,12/05/2015,0.03
+Transport,19/05/2015,0.02
+Transport,26/05/2015,0.02
+Transport,02/06/2015,0.02
+Transport,09/06/2015,0.02
+Transport,04/09/2015,0.02
+Transport,18/12/2015,0.03
+Transport,08/06/2016,0.02
+Transport,06/07/2016,0.02
+Transport,26/07/2016,0.02
+Transport,02/08/2016,0.03
+Transport,09/08/2016,0.02
+Transport,17/08/2016,0.04
+Transport,23/08/2016,0.03
+Transport,31/08/2016,0.02
+Transport,14/09/2016,0.03
+Transport,12/10/2016,0.02
+Transport,25/10/2016,0.01
+Transport,01/11/2016,0.02
+Transport,15/11/2016,0.02
+Transport,29/11/2016,0.03
+Transport,17/12/2016,0.03
+Transport,10/01/2017,0.03
+Transport,17/01/2017,0.03
+Transport,24/01/2017,0.04
+Transport,31/01/2017,0.03
+Transport,13/02/2017,0.02
+Transport,22/02/2017,0.03
+Transport,28/02/2017,0.02
+Transport,14/03/2017,0.03
+Transport,21/03/2017,0.03
+Transport,27/03/2017,0.02
+Transport,06/04/2017,0.03
+Transport,19/04/2017,0.02
+Transport,26/04/2017,0.03
+Transport,03/05/2017,0.02
+Transport,10/05/2017,0.02
+Transport,17/05/2017,0.02
+Transport,31/05/2017,0.01
+Transport,07/06/2017,0.01
+Transport,22/06/2017,0.01
+Transport,11/07/2017,0.02
+Transport,01/08/2017,0.02
+Transport,31/08/2017,0.02
+Transport,12/09/2017,0.01
+Transport,11/10/2017,0.02
+Transport,28/11/2017,0.02
+Transport,12/12/2017,0.03
+Transport,20/12/2017,0.02
+Transport,21/12/2017,0.03
+Welfare benefits,15/02/2011,0.00
+Welfare benefits,01/03/2011,0.00
+Welfare benefits,15/03/2011,0.00
+Welfare benefits,29/03/2011,0.00
+Welfare benefits,12/04/2011,0.00
+Welfare benefits,26/04/2011,0.00
+Welfare benefits,10/05/2011,0.00
+Welfare benefits,24/05/2011,0.00
+Welfare benefits,07/06/2011,0.00
+Welfare benefits,14/06/2011,0.00
+Welfare benefits,21/06/2011,0.00
+Welfare benefits,28/06/2011,0.00
+Welfare benefits,05/07/2011,0.00
+Welfare benefits,12/07/2011,0.00
+Welfare benefits,19/07/2011,0.00
+Welfare benefits,26/07/2011,0.00
+Welfare benefits,09/08/2011,0.00
+Welfare benefits,23/08/2011,0.00
+Welfare benefits,06/09/2011,0.00
+Welfare benefits,20/09/2011,0.00
+Welfare benefits,04/10/2011,0.00
+Welfare benefits,18/10/2011,0.00
+Welfare benefits,01/11/2011,0.00
+Welfare benefits,15/11/2011,0.00
+Welfare benefits,29/11/2011,0.00
+Welfare benefits,13/12/2011,0.00
+Welfare benefits,03/01/2012,0.00
+Welfare benefits,17/01/2012,0.00
+Welfare benefits,31/01/2012,0.00
+Welfare benefits,14/02/2012,0.00
+Welfare benefits,20/02/2012,0.00
+Welfare benefits,28/02/2012,0.00
+Welfare benefits,13/03/2012,0.00
+Welfare benefits,27/03/2012,0.00
+Welfare benefits,10/04/2012,0.00
+Welfare benefits,24/04/2012,0.00
+Welfare benefits,08/05/2012,0.00
+Welfare benefits,22/05/2012,0.00
+Welfare benefits,07/06/2012,0.00
+Welfare benefits,19/06/2012,0.00
+Welfare benefits,03/07/2012,0.00
+Welfare benefits,17/07/2012,0.00
+Welfare benefits,31/07/2012,0.00
+Welfare benefits,14/08/2012,0.00
+Welfare benefits,28/08/2012,0.00
+Welfare benefits,11/09/2012,0.00
+Welfare benefits,25/09/2012,0.00
+Welfare benefits,09/10/2012,0.00
+Welfare benefits,23/10/2012,0.00
+Welfare benefits,06/11/2012,0.00
+Welfare benefits,20/11/2012,0.00
+Welfare benefits,04/12/2012,0.00
+Welfare benefits,15/01/2013,0.00
+Welfare benefits,29/01/2013,0.00
+Welfare benefits,12/02/2013,0.00
+Welfare benefits,26/02/2013,0.00
+Welfare benefits,05/03/2013,0.00
+Welfare benefits,12/03/2013,0.00
+Welfare benefits,19/03/2013,0.00
+Welfare benefits,26/03/2013,0.00
+Welfare benefits,02/04/2013,0.00
+Welfare benefits,09/04/2013,0.00
+Welfare benefits,16/04/2013,0.00
+Welfare benefits,23/04/2013,0.00
+Welfare benefits,30/04/2013,0.00
+Welfare benefits,07/05/2013,0.00
+Welfare benefits,21/05/2013,0.00
+Welfare benefits,04/06/2013,0.00
+Welfare benefits,18/06/2013,0.28
+Welfare benefits,16/07/2013,0.30
+Welfare benefits,30/07/2013,0.28
+Welfare benefits,13/08/2013,0.29
+Welfare benefits,27/08/2013,0.30
+Welfare benefits,10/09/2013,0.27
+Welfare benefits,08/10/2013,0.29
+Welfare benefits,22/10/2013,0.31
+Welfare benefits,05/11/2013,0.30
+Welfare benefits,19/11/2013,0.29
+Welfare benefits,03/12/2013,0.29
+Welfare benefits,17/12/2013,0.25
+Welfare benefits,14/01/2014,0.30
+Welfare benefits,22/01/2014,0.32
+Welfare benefits,28/01/2014,0.31
+Welfare benefits,11/02/2014,0.25
+Welfare benefits,25/02/2014,0.30
+Welfare benefits,11/03/2014,0.28
+Welfare benefits,25/03/2014,0.27
+Welfare benefits,08/04/2014,0.28
+Welfare benefits,13/05/2014,0.26
+Welfare benefits,28/05/2014,0.25
+Welfare benefits,10/06/2014,0.23
+Welfare benefits,24/06/2014,0.28
+Welfare benefits,08/07/2014,0.25
+Welfare benefits,22/07/2014,0.26
+Welfare benefits,05/08/2014,0.27
+Welfare benefits,19/08/2014,0.23
+Welfare benefits,02/09/2014,0.24
+Welfare benefits,16/09/2014,0.26
+Welfare benefits,14/10/2014,0.24
+Welfare benefits,28/10/2014,0.21
+Welfare benefits,11/11/2014,0.23
+Welfare benefits,25/11/2014,0.28
+Welfare benefits,09/12/2014,0.30
+Welfare benefits,06/01/2015,0.28
+Welfare benefits,20/01/2015,0.27
+Welfare benefits,03/02/2015,0.27
+Welfare benefits,17/02/2015,0.27
+Welfare benefits,03/03/2015,0.30
+Welfare benefits,17/03/2015,0.27
+Welfare benefits,31/03/2015,0.32
+Welfare benefits,14/04/2015,0.25
+Welfare benefits,28/04/2015,0.25
+Welfare benefits,12/05/2015,0.28
+Welfare benefits,19/05/2015,0.29
+Welfare benefits,26/05/2015,0.29
+Welfare benefits,02/06/2015,0.31
+Welfare benefits,09/06/2015,0.27
+Welfare benefits,04/09/2015,0.29
+Welfare benefits,18/12/2015,0.30
+Welfare benefits,08/06/2016,0.17
+Welfare benefits,06/07/2016,0.16
+Welfare benefits,26/07/2016,0.13
+Welfare benefits,02/08/2016,0.13
+Welfare benefits,09/08/2016,0.13
+Welfare benefits,17/08/2016,0.13
+Welfare benefits,23/08/2016,0.17
+Welfare benefits,31/08/2016,0.15
+Welfare benefits,14/09/2016,0.15
+Welfare benefits,12/10/2016,0.12
+Welfare benefits,25/10/2016,0.15
+Welfare benefits,01/11/2016,0.15
+Welfare benefits,15/11/2016,0.16
+Welfare benefits,29/11/2016,0.17
+Welfare benefits,17/12/2016,0.15
+Welfare benefits,10/01/2017,0.14
+Welfare benefits,17/01/2017,0.14
+Welfare benefits,24/01/2017,0.14
+Welfare benefits,31/01/2017,0.13
+Welfare benefits,13/02/2017,0.15
+Welfare benefits,22/02/2017,0.13
+Welfare benefits,28/02/2017,0.16
+Welfare benefits,14/03/2017,0.15
+Welfare benefits,21/03/2017,0.15
+Welfare benefits,27/03/2017,0.15
+Welfare benefits,06/04/2017,0.17
+Welfare benefits,19/04/2017,0.15
+Welfare benefits,26/04/2017,0.15
+Welfare benefits,03/05/2017,0.15
+Welfare benefits,10/05/2017,0.14
+Welfare benefits,17/05/2017,0.14
+Welfare benefits,31/05/2017,0.12
+Welfare benefits,07/06/2017,0.10
+Welfare benefits,22/06/2017,0.12
+Welfare benefits,11/07/2017,0.14
+Welfare benefits,01/08/2017,0.12
+Welfare benefits,31/08/2017,0.12
+Welfare benefits,12/09/2017,0.13
+Welfare benefits,11/10/2017,0.12
+Welfare benefits,28/11/2017,0.13
+Welfare benefits,12/12/2017,0.15
+Welfare benefits,20/12/2017,0.17
+Welfare benefits,21/12/2017,0.12
+Defence and security,15/02/2011,0.00
+Defence and security,01/03/2011,0.00
+Defence and security,15/03/2011,0.00
+Defence and security,29/03/2011,0.00
+Defence and security,12/04/2011,0.00
+Defence and security,26/04/2011,0.00
+Defence and security,10/05/2011,0.00
+Defence and security,24/05/2011,0.00
+Defence and security,07/06/2011,0.00
+Defence and security,14/06/2011,0.00
+Defence and security,21/06/2011,0.00
+Defence and security,28/06/2011,0.00
+Defence and security,05/07/2011,0.00
+Defence and security,12/07/2011,0.00
+Defence and security,19/07/2011,0.00
+Defence and security,26/07/2011,0.00
+Defence and security,09/08/2011,0.00
+Defence and security,23/08/2011,0.00
+Defence and security,06/09/2011,0.00
+Defence and security,20/09/2011,0.00
+Defence and security,04/10/2011,0.00
+Defence and security,18/10/2011,0.00
+Defence and security,01/11/2011,0.00
+Defence and security,15/11/2011,0.00
+Defence and security,29/11/2011,0.00
+Defence and security,13/12/2011,0.00
+Defence and security,03/01/2012,0.00
+Defence and security,17/01/2012,0.00
+Defence and security,31/01/2012,0.00
+Defence and security,14/02/2012,0.00
+Defence and security,20/02/2012,0.00
+Defence and security,28/02/2012,0.00
+Defence and security,13/03/2012,0.00
+Defence and security,27/03/2012,0.00
+Defence and security,10/04/2012,0.00
+Defence and security,24/04/2012,0.00
+Defence and security,08/05/2012,0.00
+Defence and security,22/05/2012,0.00
+Defence and security,07/06/2012,0.00
+Defence and security,19/06/2012,0.00
+Defence and security,03/07/2012,0.00
+Defence and security,17/07/2012,0.00
+Defence and security,31/07/2012,0.00
+Defence and security,14/08/2012,0.00
+Defence and security,28/08/2012,0.00
+Defence and security,11/09/2012,0.00
+Defence and security,25/09/2012,0.00
+Defence and security,09/10/2012,0.00
+Defence and security,23/10/2012,0.00
+Defence and security,06/11/2012,0.00
+Defence and security,20/11/2012,0.00
+Defence and security,04/12/2012,0.00
+Defence and security,15/01/2013,0.00
+Defence and security,29/01/2013,0.00
+Defence and security,12/02/2013,0.00
+Defence and security,26/02/2013,0.00
+Defence and security,05/03/2013,0.00
+Defence and security,12/03/2013,0.00
+Defence and security,19/03/2013,0.00
+Defence and security,26/03/2013,0.00
+Defence and security,02/04/2013,0.00
+Defence and security,09/04/2013,0.00
+Defence and security,16/04/2013,0.00
+Defence and security,23/04/2013,0.00
+Defence and security,30/04/2013,0.00
+Defence and security,07/05/2013,0.00
+Defence and security,21/05/2013,0.00
+Defence and security,04/06/2013,0.00
+Defence and security,18/06/2013,0.00
+Defence and security,16/07/2013,0.00
+Defence and security,30/07/2013,0.00
+Defence and security,13/08/2013,0.00
+Defence and security,27/08/2013,0.00
+Defence and security,10/09/2013,0.00
+Defence and security,08/10/2013,0.00
+Defence and security,22/10/2013,0.00
+Defence and security,05/11/2013,0.00
+Defence and security,19/11/2013,0.00
+Defence and security,03/12/2013,0.00
+Defence and security,17/12/2013,0.00
+Defence and security,14/01/2014,0.00
+Defence and security,22/01/2014,0.00
+Defence and security,28/01/2014,0.00
+Defence and security,11/02/2014,0.00
+Defence and security,25/02/2014,0.00
+Defence and security,11/03/2014,0.00
+Defence and security,25/03/2014,0.00
+Defence and security,08/04/2014,0.00
+Defence and security,13/05/2014,0.00
+Defence and security,28/05/2014,0.00
+Defence and security,10/06/2014,0.00
+Defence and security,24/06/2014,0.00
+Defence and security,08/07/2014,0.00
+Defence and security,22/07/2014,0.00
+Defence and security,05/08/2014,0.00
+Defence and security,19/08/2014,0.00
+Defence and security,02/09/2014,0.00
+Defence and security,16/09/2014,0.00
+Defence and security,14/10/2014,0.00
+Defence and security,28/10/2014,0.00
+Defence and security,11/11/2014,0.00
+Defence and security,25/11/2014,0.00
+Defence and security,09/12/2014,0.00
+Defence and security,06/01/2015,0.00
+Defence and security,20/01/2015,0.00
+Defence and security,03/02/2015,0.00
+Defence and security,17/02/2015,0.00
+Defence and security,03/03/2015,0.00
+Defence and security,17/03/2015,0.00
+Defence and security,31/03/2015,0.00
+Defence and security,14/04/2015,0.00
+Defence and security,28/04/2015,0.00
+Defence and security,12/05/2015,0.00
+Defence and security,19/05/2015,0.00
+Defence and security,26/05/2015,0.00
+Defence and security,02/06/2015,0.00
+Defence and security,09/06/2015,0.00
+Defence and security,04/09/2015,0.00
+Defence and security,18/12/2015,0.00
+Defence and security,08/06/2016,0.00
+Defence and security,06/07/2016,0.00
+Defence and security,26/07/2016,0.00
+Defence and security,02/08/2016,0.00
+Defence and security,09/08/2016,0.00
+Defence and security,17/08/2016,0.00
+Defence and security,23/08/2016,0.00
+Defence and security,31/08/2016,0.00
+Defence and security,14/09/2016,0.00
+Defence and security,12/10/2016,0.00
+Defence and security,25/10/2016,0.00
+Defence and security,01/11/2016,0.00
+Defence and security,15/11/2016,0.00
+Defence and security,29/11/2016,0.00
+Defence and security,17/12/2016,0.00
+Defence and security,10/01/2017,0.00
+Defence and security,17/01/2017,0.00
+Defence and security,24/01/2017,0.00
+Defence and security,31/01/2017,0.00
+Defence and security,13/02/2017,0.00
+Defence and security,22/02/2017,0.00
+Defence and security,28/02/2017,0.00
+Defence and security,14/03/2017,0.00
+Defence and security,21/03/2017,0.00
+Defence and security,27/03/2017,0.00
+Defence and security,06/04/2017,0.00
+Defence and security,19/04/2017,0.00
+Defence and security,26/04/2017,0.00
+Defence and security,03/05/2017,0.00
+Defence and security,10/05/2017,0.00
+Defence and security,17/05/2017,0.00
+Defence and security,31/05/2017,0.00
+Defence and security,07/06/2017,0.00
+Defence and security,22/06/2017,0.28
+Defence and security,11/07/2017,0.21
+Defence and security,01/08/2017,0.17
+Defence and security,31/08/2017,0.23
+Defence and security,12/09/2017,0.19
+Defence and security,11/10/2017,0.20
+Defence and security,28/11/2017,0.18
+Defence and security,12/12/2017,0.15
+Defence and security,20/12/2017,0.16
+Defence and security,21/12/2017,0.17
+None of these,15/02/2011,0.00
+None of these,01/03/2011,0.00
+None of these,15/03/2011,0.00
+None of these,29/03/2011,0.00
+None of these,12/04/2011,0.00
+None of these,26/04/2011,0.00
+None of these,10/05/2011,0.00
+None of these,24/05/2011,0.00
+None of these,07/06/2011,0.00
+None of these,14/06/2011,0.00
+None of these,21/06/2011,0.00
+None of these,28/06/2011,0.00
+None of these,05/07/2011,0.00
+None of these,12/07/2011,0.00
+None of these,19/07/2011,0.00
+None of these,26/07/2011,0.00
+None of these,09/08/2011,0.00
+None of these,23/08/2011,0.00
+None of these,06/09/2011,0.00
+None of these,20/09/2011,0.00
+None of these,04/10/2011,0.00
+None of these,18/10/2011,0.00
+None of these,01/11/2011,0.00
+None of these,15/11/2011,0.00
+None of these,29/11/2011,0.00
+None of these,13/12/2011,0.00
+None of these,03/01/2012,0.00
+None of these,17/01/2012,0.00
+None of these,31/01/2012,0.00
+None of these,14/02/2012,0.00
+None of these,20/02/2012,0.00
+None of these,28/02/2012,0.00
+None of these,13/03/2012,0.00
+None of these,27/03/2012,0.00
+None of these,10/04/2012,0.00
+None of these,24/04/2012,0.00
+None of these,08/05/2012,0.00
+None of these,22/05/2012,0.00
+None of these,07/06/2012,0.00
+None of these,19/06/2012,0.00
+None of these,03/07/2012,0.00
+None of these,17/07/2012,0.00
+None of these,31/07/2012,0.00
+None of these,14/08/2012,0.00
+None of these,28/08/2012,0.00
+None of these,11/09/2012,0.00
+None of these,25/09/2012,0.00
+None of these,09/10/2012,0.00
+None of these,23/10/2012,0.00
+None of these,06/11/2012,0.00
+None of these,20/11/2012,0.00
+None of these,04/12/2012,0.00
+None of these,15/01/2013,0.00
+None of these,29/01/2013,0.00
+None of these,12/02/2013,0.00
+None of these,26/02/2013,0.00
+None of these,05/03/2013,0.00
+None of these,12/03/2013,0.00
+None of these,19/03/2013,0.00
+None of these,26/03/2013,0.00
+None of these,02/04/2013,0.00
+None of these,09/04/2013,0.00
+None of these,16/04/2013,0.00
+None of these,23/04/2013,0.00
+None of these,30/04/2013,0.00
+None of these,07/05/2013,0.00
+None of these,21/05/2013,0.00
+None of these,04/06/2013,0.00
+None of these,18/06/2013,0.00
+None of these,16/07/2013,0.00
+None of these,30/07/2013,0.00
+None of these,13/08/2013,0.00
+None of these,27/08/2013,0.00
+None of these,10/09/2013,0.00
+None of these,08/10/2013,0.00
+None of these,22/10/2013,0.00
+None of these,05/11/2013,0.00
+None of these,19/11/2013,0.00
+None of these,03/12/2013,0.00
+None of these,17/12/2013,0.00
+None of these,14/01/2014,0.00
+None of these,22/01/2014,0.00
+None of these,28/01/2014,0.00
+None of these,11/02/2014,0.00
+None of these,25/02/2014,0.00
+None of these,11/03/2014,0.00
+None of these,25/03/2014,0.00
+None of these,08/04/2014,0.00
+None of these,13/05/2014,0.00
+None of these,28/05/2014,0.00
+None of these,10/06/2014,0.00
+None of these,24/06/2014,0.00
+None of these,08/07/2014,0.00
+None of these,22/07/2014,0.00
+None of these,05/08/2014,0.00
+None of these,19/08/2014,0.00
+None of these,02/09/2014,0.00
+None of these,16/09/2014,0.00
+None of these,14/10/2014,0.00
+None of these,28/10/2014,0.00
+None of these,11/11/2014,0.00
+None of these,25/11/2014,0.00
+None of these,09/12/2014,0.00
+None of these,06/01/2015,0.00
+None of these,20/01/2015,0.00
+None of these,03/02/2015,0.00
+None of these,17/02/2015,0.00
+None of these,03/03/2015,0.00
+None of these,17/03/2015,0.00
+None of these,31/03/2015,0.00
+None of these,14/04/2015,0.00
+None of these,28/04/2015,0.00
+None of these,12/05/2015,0.00
+None of these,19/05/2015,0.00
+None of these,26/05/2015,0.00
+None of these,02/06/2015,0.00
+None of these,09/06/2015,0.00
+None of these,04/09/2015,0.00
+None of these,18/12/2015,0.00
+None of these,08/06/2016,0.00
+None of these,06/07/2016,0.00
+None of these,26/07/2016,0.00
+None of these,02/08/2016,0.00
+None of these,09/08/2016,0.00
+None of these,17/08/2016,0.00
+None of these,23/08/2016,0.00
+None of these,31/08/2016,0.00
+None of these,14/09/2016,0.00
+None of these,12/10/2016,0.00
+None of these,25/10/2016,0.00
+None of these,01/11/2016,0.00
+None of these,15/11/2016,0.00
+None of these,29/11/2016,0.00
+None of these,17/12/2016,0.00
+None of these,10/01/2017,0.00
+None of these,17/01/2017,0.00
+None of these,24/01/2017,0.00
+None of these,31/01/2017,0.00
+None of these,13/02/2017,0.00
+None of these,22/02/2017,0.00
+None of these,28/02/2017,0.00
+None of these,14/03/2017,0.00
+None of these,21/03/2017,0.00
+None of these,27/03/2017,0.00
+None of these,06/04/2017,0.00
+None of these,19/04/2017,0.00
+None of these,26/04/2017,0.00
+None of these,03/05/2017,0.00
+None of these,10/05/2017,0.00
+None of these,17/05/2017,0.00
+None of these,31/05/2017,0.00
+None of these,07/06/2017,0.00
+None of these,22/06/2017,0.00
+None of these,11/07/2017,0.00
+None of these,01/08/2017,0.00
+None of these,31/08/2017,0.00
+None of these,12/09/2017,0.00
+None of these,11/10/2017,0.00
+None of these,28/11/2017,0.00
+None of these,12/12/2017,0.00
+None of these,20/12/2017,0.00
+None of these,21/12/2017,0.00
+Don't know,15/02/2011,0.00
+Don't know,01/03/2011,0.00
+Don't know,15/03/2011,0.00
+Don't know,29/03/2011,0.00
+Don't know,12/04/2011,0.00
+Don't know,26/04/2011,0.00
+Don't know,10/05/2011,0.00
+Don't know,24/05/2011,0.00
+Don't know,07/06/2011,0.00
+Don't know,14/06/2011,0.00
+Don't know,21/06/2011,0.00
+Don't know,28/06/2011,0.00
+Don't know,05/07/2011,0.00
+Don't know,12/07/2011,0.00
+Don't know,19/07/2011,0.00
+Don't know,26/07/2011,0.00
+Don't know,09/08/2011,0.00
+Don't know,23/08/2011,0.00
+Don't know,06/09/2011,0.00
+Don't know,20/09/2011,0.00
+Don't know,04/10/2011,0.00
+Don't know,18/10/2011,0.00
+Don't know,01/11/2011,0.00
+Don't know,15/11/2011,0.00
+Don't know,29/11/2011,0.00
+Don't know,13/12/2011,0.00
+Don't know,03/01/2012,0.00
+Don't know,17/01/2012,0.00
+Don't know,31/01/2012,0.00
+Don't know,14/02/2012,0.00
+Don't know,20/02/2012,0.00
+Don't know,28/02/2012,0.00
+Don't know,13/03/2012,0.00
+Don't know,27/03/2012,0.00
+Don't know,10/04/2012,0.00
+Don't know,24/04/2012,0.00
+Don't know,08/05/2012,0.00
+Don't know,22/05/2012,0.00
+Don't know,07/06/2012,0.00
+Don't know,19/06/2012,0.00
+Don't know,03/07/2012,0.00
+Don't know,17/07/2012,0.00
+Don't know,31/07/2012,0.00
+Don't know,14/08/2012,0.00
+Don't know,28/08/2012,0.00
+Don't know,11/09/2012,0.00
+Don't know,25/09/2012,0.00
+Don't know,09/10/2012,0.00
+Don't know,23/10/2012,0.00
+Don't know,06/11/2012,0.00
+Don't know,20/11/2012,0.00
+Don't know,04/12/2012,0.00
+Don't know,15/01/2013,0.00
+Don't know,29/01/2013,0.00
+Don't know,12/02/2013,0.00
+Don't know,26/02/2013,0.00
+Don't know,05/03/2013,0.00
+Don't know,12/03/2013,0.00
+Don't know,19/03/2013,0.00
+Don't know,26/03/2013,0.00
+Don't know,02/04/2013,0.00
+Don't know,09/04/2013,0.00
+Don't know,16/04/2013,0.00
+Don't know,23/04/2013,0.00
+Don't know,30/04/2013,0.00
+Don't know,07/05/2013,0.00
+Don't know,21/05/2013,0.00
+Don't know,04/06/2013,0.00
+Don't know,18/06/2013,0.00
+Don't know,16/07/2013,0.00
+Don't know,30/07/2013,0.00
+Don't know,13/08/2013,0.00
+Don't know,27/08/2013,0.00
+Don't know,10/09/2013,0.00
+Don't know,08/10/2013,0.00
+Don't know,22/10/2013,0.00
+Don't know,05/11/2013,0.00
+Don't know,19/11/2013,0.00
+Don't know,03/12/2013,0.00
+Don't know,17/12/2013,0.00
+Don't know,14/01/2014,0.00
+Don't know,22/01/2014,0.00
+Don't know,28/01/2014,0.00
+Don't know,11/02/2014,0.00
+Don't know,25/02/2014,0.00
+Don't know,11/03/2014,0.00
+Don't know,25/03/2014,0.00
+Don't know,08/04/2014,0.00
+Don't know,13/05/2014,0.00
+Don't know,28/05/2014,0.00
+Don't know,10/06/2014,0.00
+Don't know,24/06/2014,0.00
+Don't know,08/07/2014,0.00
+Don't know,22/07/2014,0.00
+Don't know,05/08/2014,0.00
+Don't know,19/08/2014,0.00
+Don't know,02/09/2014,0.00
+Don't know,16/09/2014,0.00
+Don't know,14/10/2014,0.00
+Don't know,28/10/2014,0.00
+Don't know,11/11/2014,0.00
+Don't know,25/11/2014,0.00
+Don't know,09/12/2014,0.00
+Don't know,06/01/2015,0.00
+Don't know,20/01/2015,0.00
+Don't know,03/02/2015,0.00
+Don't know,17/02/2015,0.00
+Don't know,03/03/2015,0.00
+Don't know,17/03/2015,0.00
+Don't know,31/03/2015,0.00
+Don't know,14/04/2015,0.00
+Don't know,28/04/2015,0.00
+Don't know,12/05/2015,0.00
+Don't know,19/05/2015,0.00
+Don't know,26/05/2015,0.00
+Don't know,02/06/2015,0.00
+Don't know,09/06/2015,0.00
+Don't know,04/09/2015,0.00
+Don't know,18/12/2015,0.00
+Don't know,08/06/2016,0.00
+Don't know,06/07/2016,0.00
+Don't know,26/07/2016,0.00
+Don't know,02/08/2016,0.00
+Don't know,09/08/2016,0.00
+Don't know,17/08/2016,0.00
+Don't know,23/08/2016,0.00
+Don't know,31/08/2016,0.00
+Don't know,14/09/2016,0.00
+Don't know,12/10/2016,0.00
+Don't know,25/10/2016,0.00
+Don't know,01/11/2016,0.00
+Don't know,15/11/2016,0.00
+Don't know,29/11/2016,0.00
+Don't know,17/12/2016,0.00
+Don't know,10/01/2017,0.00
+Don't know,17/01/2017,0.00
+Don't know,24/01/2017,0.00
+Don't know,31/01/2017,0.00
+Don't know,13/02/2017,0.00
+Don't know,22/02/2017,0.00
+Don't know,28/02/2017,0.00
+Don't know,14/03/2017,0.00
+Don't know,21/03/2017,0.00
+Don't know,27/03/2017,0.00
+Don't know,06/04/2017,0.00
+Don't know,19/04/2017,0.00
+Don't know,26/04/2017,0.00
+Don't know,03/05/2017,0.00
+Don't know,10/05/2017,0.00
+Don't know,17/05/2017,0.00
+Don't know,31/05/2017,0.00
+Don't know,07/06/2017,0.00
+Don't know,22/06/2017,0.00
+Don't know,11/07/2017,0.00
+Don't know,01/08/2017,0.00
+Don't know,31/08/2017,0.00
+Don't know,12/09/2017,0.00
+Don't know,11/10/2017,0.00
+Don't know,28/11/2017,0.00
+Don't know,12/12/2017,0.00
+Don't know,20/12/2017,0.00
+Don't know,21/12/2017,0.00
+Afghanistan,15/02/2011,0.10
+Afghanistan,01/03/2011,0.10
+Afghanistan,15/03/2011,0.09
+Afghanistan,29/03/2011,0.09
+Afghanistan,12/04/2011,0.09
+Afghanistan,26/04/2011,0.09
+Afghanistan,10/05/2011,0.09
+Afghanistan,24/05/2011,0.09
+Afghanistan,07/06/2011,0.10
+Afghanistan,14/06/2011,0.08
+Afghanistan,21/06/2011,0.09
+Afghanistan,28/06/2011,0.09
+Afghanistan,05/07/2011,0.08
+Afghanistan,12/07/2011,0.08
+Afghanistan,19/07/2011,0.10
+Afghanistan,26/07/2011,0.08
+Afghanistan,09/08/2011,0.07
+Afghanistan,23/08/2011,0.06
+Afghanistan,06/09/2011,0.07
+Afghanistan,20/09/2011,0.07
+Afghanistan,04/10/2011,0.05
+Afghanistan,18/10/2011,0.07
+Afghanistan,01/11/2011,0.04
+Afghanistan,15/11/2011,0.06
+Afghanistan,29/11/2011,0.06
+Afghanistan,13/12/2011,0.05
+Afghanistan,03/01/2012,0.05
+Afghanistan,17/01/2012,0.04
+Afghanistan,31/01/2012,0.04
+Afghanistan,14/02/2012,0.05
+Afghanistan,20/02/2012,0.05
+Afghanistan,28/02/2012,0.04
+Afghanistan,13/03/2012,0.15
+Afghanistan,27/03/2012,0.13
+Afghanistan,10/04/2012,0.10
+Afghanistan,24/04/2012,0.07
+Afghanistan,08/05/2012,0.07
+Afghanistan,22/05/2012,0.06
+Afghanistan,07/06/2012,0.05
+Afghanistan,19/06/2012,0.06
+Afghanistan,03/07/2012,0.08
+Afghanistan,17/07/2012,0.06
+Afghanistan,31/07/2012,0.06
+Afghanistan,14/08/2012,0.06
+Afghanistan,28/08/2012,0.06
+Afghanistan,11/09/2012,0.07
+Afghanistan,25/09/2012,0.09
+Afghanistan,09/10/2012,0.07
+Afghanistan,23/10/2012,0.07
+Afghanistan,06/11/2012,0.06
+Afghanistan,20/11/2012,0.08
+Afghanistan,04/12/2012,0.05
+Afghanistan,15/01/2013,0.05
+Afghanistan,29/01/2013,0.05
+Afghanistan,12/02/2013,0.05
+Afghanistan,26/02/2013,0.03
+Afghanistan,05/03/2013,0.05
+Afghanistan,12/03/2013,0.03
+Afghanistan,19/03/2013,0.04
+Afghanistan,26/03/2013,0.04
+Afghanistan,02/04/2013,0.02
+Afghanistan,09/04/2013,0.02
+Afghanistan,16/04/2013,0.02
+Afghanistan,23/04/2013,0.03
+Afghanistan,30/04/2013,0.04
+Afghanistan,07/05/2013,0.05
+Afghanistan,21/05/2013,0.05
+Afghanistan,04/06/2013,0.05
+Afghanistan,18/06/2013,0.00
+Afghanistan,16/07/2013,0.00
+Afghanistan,30/07/2013,0.00
+Afghanistan,13/08/2013,0.00
+Afghanistan,27/08/2013,0.00
+Afghanistan,10/09/2013,0.00
+Afghanistan,08/10/2013,0.00
+Afghanistan,22/10/2013,0.00
+Afghanistan,05/11/2013,0.00
+Afghanistan,19/11/2013,0.00
+Afghanistan,03/12/2013,0.00
+Afghanistan,17/12/2013,0.00
+Afghanistan,14/01/2014,0.00
+Afghanistan,22/01/2014,0.00
+Afghanistan,28/01/2014,0.00
+Afghanistan,11/02/2014,0.00
+Afghanistan,25/02/2014,0.00
+Afghanistan,11/03/2014,0.00
+Afghanistan,25/03/2014,0.00
+Afghanistan,08/04/2014,0.00
+Afghanistan,13/05/2014,0.00
+Afghanistan,28/05/2014,0.00
+Afghanistan,10/06/2014,0.00
+Afghanistan,24/06/2014,0.00
+Afghanistan,08/07/2014,0.00
+Afghanistan,22/07/2014,0.00
+Afghanistan,05/08/2014,0.00
+Afghanistan,19/08/2014,0.00
+Afghanistan,02/09/2014,0.00
+Afghanistan,16/09/2014,0.00
+Afghanistan,14/10/2014,0.00
+Afghanistan,28/10/2014,0.00
+Afghanistan,11/11/2014,0.00
+Afghanistan,25/11/2014,0.00
+Afghanistan,09/12/2014,0.00
+Afghanistan,06/01/2015,0.00
+Afghanistan,20/01/2015,0.00
+Afghanistan,03/02/2015,0.00
+Afghanistan,17/02/2015,0.00
+Afghanistan,03/03/2015,0.00
+Afghanistan,17/03/2015,0.00
+Afghanistan,31/03/2015,0.00
+Afghanistan,14/04/2015,0.00
+Afghanistan,28/04/2015,0.00
+Afghanistan,12/05/2015,0.00
+Afghanistan,19/05/2015,0.00
+Afghanistan,26/05/2015,0.00
+Afghanistan,02/06/2015,0.00
+Afghanistan,09/06/2015,0.00
+Afghanistan,04/09/2015,0.00
+Afghanistan,18/12/2015,0.00
+Afghanistan,08/06/2016,0.00
+Afghanistan,06/07/2016,0.00
+Afghanistan,26/07/2016,0.00
+Afghanistan,02/08/2016,0.00
+Afghanistan,09/08/2016,0.00
+Afghanistan,17/08/2016,0.00
+Afghanistan,23/08/2016,0.00
+Afghanistan,31/08/2016,0.00
+Afghanistan,14/09/2016,0.00
+Afghanistan,12/10/2016,0.00
+Afghanistan,25/10/2016,0.00
+Afghanistan,01/11/2016,0.00
+Afghanistan,15/11/2016,0.00
+Afghanistan,29/11/2016,0.00
+Afghanistan,17/12/2016,0.00
+Afghanistan,10/01/2017,0.00
+Afghanistan,17/01/2017,0.00
+Afghanistan,24/01/2017,0.00
+Afghanistan,31/01/2017,0.00
+Afghanistan,13/02/2017,0.00
+Afghanistan,22/02/2017,0.00
+Afghanistan,28/02/2017,0.00
+Afghanistan,14/03/2017,0.00
+Afghanistan,21/03/2017,0.00
+Afghanistan,27/03/2017,0.00
+Afghanistan,06/04/2017,0.00
+Afghanistan,19/04/2017,0.00
+Afghanistan,26/04/2017,0.00
+Afghanistan,03/05/2017,0.00
+Afghanistan,10/05/2017,0.00
+Afghanistan,17/05/2017,0.00
+Afghanistan,31/05/2017,0.00
+Afghanistan,07/06/2017,0.00
+Afghanistan,22/06/2017,0.00
+Afghanistan,11/07/2017,0.00
+Afghanistan,01/08/2017,0.00
+Afghanistan,31/08/2017,0.00
+Afghanistan,12/09/2017,0.00
+Afghanistan,11/10/2017,0.00
+Afghanistan,28/11/2017,0.00
+Afghanistan,12/12/2017,0.00
+Afghanistan,20/12/2017,0.00
+Afghanistan,21/12/2017,0.00
+Defence and Terrorism,15/02/2011,0.00
+Defence and Terrorism,01/03/2011,0.00
+Defence and Terrorism,15/03/2011,0.00
+Defence and Terrorism,29/03/2011,0.00
+Defence and Terrorism,12/04/2011,0.00
+Defence and Terrorism,26/04/2011,0.00
+Defence and Terrorism,10/05/2011,0.00
+Defence and Terrorism,24/05/2011,0.00
+Defence and Terrorism,07/06/2011,0.00
+Defence and Terrorism,14/06/2011,0.00
+Defence and Terrorism,21/06/2011,0.00
+Defence and Terrorism,28/06/2011,0.00
+Defence and Terrorism,05/07/2011,0.00
+Defence and Terrorism,12/07/2011,0.00
+Defence and Terrorism,19/07/2011,0.00
+Defence and Terrorism,26/07/2011,0.00
+Defence and Terrorism,09/08/2011,0.00
+Defence and Terrorism,23/08/2011,0.00
+Defence and Terrorism,06/09/2011,0.00
+Defence and Terrorism,20/09/2011,0.00
+Defence and Terrorism,04/10/2011,0.00
+Defence and Terrorism,18/10/2011,0.00
+Defence and Terrorism,01/11/2011,0.00
+Defence and Terrorism,15/11/2011,0.00
+Defence and Terrorism,29/11/2011,0.00
+Defence and Terrorism,13/12/2011,0.00
+Defence and Terrorism,03/01/2012,0.00
+Defence and Terrorism,17/01/2012,0.00
+Defence and Terrorism,31/01/2012,0.00
+Defence and Terrorism,14/02/2012,0.00
+Defence and Terrorism,20/02/2012,0.00
+Defence and Terrorism,28/02/2012,0.00
+Defence and Terrorism,13/03/2012,0.00
+Defence and Terrorism,27/03/2012,0.00
+Defence and Terrorism,10/04/2012,0.00
+Defence and Terrorism,24/04/2012,0.00
+Defence and Terrorism,08/05/2012,0.00
+Defence and Terrorism,22/05/2012,0.00
+Defence and Terrorism,07/06/2012,0.00
+Defence and Terrorism,19/06/2012,0.00
+Defence and Terrorism,03/07/2012,0.00
+Defence and Terrorism,17/07/2012,0.00
+Defence and Terrorism,31/07/2012,0.00
+Defence and Terrorism,14/08/2012,0.00
+Defence and Terrorism,28/08/2012,0.00
+Defence and Terrorism,11/09/2012,0.00
+Defence and Terrorism,25/09/2012,0.00
+Defence and Terrorism,09/10/2012,0.00
+Defence and Terrorism,23/10/2012,0.00
+Defence and Terrorism,06/11/2012,0.00
+Defence and Terrorism,20/11/2012,0.00
+Defence and Terrorism,04/12/2012,0.00
+Defence and Terrorism,15/01/2013,0.00
+Defence and Terrorism,29/01/2013,0.00
+Defence and Terrorism,12/02/2013,0.00
+Defence and Terrorism,26/02/2013,0.00
+Defence and Terrorism,05/03/2013,0.00
+Defence and Terrorism,12/03/2013,0.00
+Defence and Terrorism,19/03/2013,0.00
+Defence and Terrorism,26/03/2013,0.00
+Defence and Terrorism,02/04/2013,0.00
+Defence and Terrorism,09/04/2013,0.00
+Defence and Terrorism,16/04/2013,0.00
+Defence and Terrorism,23/04/2013,0.00
+Defence and Terrorism,30/04/2013,0.00
+Defence and Terrorism,07/05/2013,0.00
+Defence and Terrorism,21/05/2013,0.00
+Defence and Terrorism,04/06/2013,0.00
+Defence and Terrorism,18/06/2013,0.00
+Defence and Terrorism,16/07/2013,0.00
+Defence and Terrorism,30/07/2013,0.00
+Defence and Terrorism,13/08/2013,0.00
+Defence and Terrorism,27/08/2013,0.00
+Defence and Terrorism,10/09/2013,0.00
+Defence and Terrorism,08/10/2013,0.00
+Defence and Terrorism,22/10/2013,0.00
+Defence and Terrorism,05/11/2013,0.00
+Defence and Terrorism,19/11/2013,0.00
+Defence and Terrorism,03/12/2013,0.00
+Defence and Terrorism,17/12/2013,0.00
+Defence and Terrorism,14/01/2014,0.00
+Defence and Terrorism,22/01/2014,0.00
+Defence and Terrorism,28/01/2014,0.00
+Defence and Terrorism,11/02/2014,0.00
+Defence and Terrorism,25/02/2014,0.00
+Defence and Terrorism,11/03/2014,0.00
+Defence and Terrorism,25/03/2014,0.00
+Defence and Terrorism,08/04/2014,0.00
+Defence and Terrorism,13/05/2014,0.00
+Defence and Terrorism,28/05/2014,0.00
+Defence and Terrorism,10/06/2014,0.00
+Defence and Terrorism,24/06/2014,0.00
+Defence and Terrorism,08/07/2014,0.00
+Defence and Terrorism,22/07/2014,0.00
+Defence and Terrorism,05/08/2014,0.00
+Defence and Terrorism,19/08/2014,0.00
+Defence and Terrorism,02/09/2014,0.00
+Defence and Terrorism,16/09/2014,0.00
+Defence and Terrorism,14/10/2014,0.00
+Defence and Terrorism,28/10/2014,0.00
+Defence and Terrorism,11/11/2014,0.00
+Defence and Terrorism,25/11/2014,0.00
+Defence and Terrorism,09/12/2014,0.00
+Defence and Terrorism,06/01/2015,0.00
+Defence and Terrorism,20/01/2015,0.00
+Defence and Terrorism,03/02/2015,0.00
+Defence and Terrorism,17/02/2015,0.00
+Defence and Terrorism,03/03/2015,0.00
+Defence and Terrorism,17/03/2015,0.00
+Defence and Terrorism,31/03/2015,0.00
+Defence and Terrorism,14/04/2015,0.00
+Defence and Terrorism,28/04/2015,0.00
+Defence and Terrorism,12/05/2015,0.00
+Defence and Terrorism,19/05/2015,0.00
+Defence and Terrorism,26/05/2015,0.00
+Defence and Terrorism,02/06/2015,0.00
+Defence and Terrorism,09/06/2015,0.00
+Defence and Terrorism,04/09/2015,0.00
+Defence and Terrorism,18/12/2015,0.00
+Defence and Terrorism,08/06/2016,0.32
+Defence and Terrorism,06/07/2016,0.23
+Defence and Terrorism,26/07/2016,0.00
+Defence and Terrorism,02/08/2016,0.00
+Defence and Terrorism,09/08/2016,0.00
+Defence and Terrorism,17/08/2016,0.00
+Defence and Terrorism,23/08/2016,0.00
+Defence and Terrorism,31/08/2016,0.00
+Defence and Terrorism,14/09/2016,0.00
+Defence and Terrorism,12/10/2016,0.00
+Defence and Terrorism,25/10/2016,0.00
+Defence and Terrorism,01/11/2016,0.00
+Defence and Terrorism,15/11/2016,0.00
+Defence and Terrorism,29/11/2016,0.00
+Defence and Terrorism,17/12/2016,0.00
+Defence and Terrorism,10/01/2017,0.00
+Defence and Terrorism,17/01/2017,0.00
+Defence and Terrorism,24/01/2017,0.00
+Defence and Terrorism,31/01/2017,0.00
+Defence and Terrorism,13/02/2017,0.00
+Defence and Terrorism,22/02/2017,0.00
+Defence and Terrorism,28/02/2017,0.00
+Defence and Terrorism,14/03/2017,0.00
+Defence and Terrorism,21/03/2017,0.00
+Defence and Terrorism,27/03/2017,0.00
+Defence and Terrorism,06/04/2017,0.00
+Defence and Terrorism,19/04/2017,0.00
+Defence and Terrorism,26/04/2017,0.00
+Defence and Terrorism,03/05/2017,0.00
+Defence and Terrorism,10/05/2017,0.00
+Defence and Terrorism,17/05/2017,0.00
+Defence and Terrorism,31/05/2017,0.00
+Defence and Terrorism,07/06/2017,0.00
+Defence and Terrorism,22/06/2017,0.00
+Defence and Terrorism,11/07/2017,0.00
+Defence and Terrorism,01/08/2017,0.00
+Defence and Terrorism,31/08/2017,0.00
+Defence and Terrorism,12/09/2017,0.00
+Defence and Terrorism,11/10/2017,0.00
+Defence and Terrorism,28/11/2017,0.00
+Defence and Terrorism,12/12/2017,0.00
+Defence and Terrorism,20/12/2017,0.00
+Defence and Terrorism,21/12/2017,0.00
+Don't know / None of these,15/02/2011,0.02
+Don't know / None of these,01/03/2011,0.03
+Don't know / None of these,15/03/2011,0.03
+Don't know / None of these,29/03/2011,0.02
+Don't know / None of these,12/04/2011,0.03
+Don't know / None of these,26/04/2011,0.02
+Don't know / None of these,10/05/2011,0.03
+Don't know / None of these,24/05/2011,0.03
+Don't know / None of these,07/06/2011,0.03
+Don't know / None of these,14/06/2011,0.03
+Don't know / None of these,21/06/2011,0.02
+Don't know / None of these,28/06/2011,0.02
+Don't know / None of these,05/07/2011,0.03
+Don't know / None of these,12/07/2011,0.03
+Don't know / None of these,19/07/2011,0.03
+Don't know / None of these,26/07/2011,0.02
+Don't know / None of these,09/08/2011,0.03
+Don't know / None of these,23/08/2011,0.02
+Don't know / None of these,06/09/2011,0.02
+Don't know / None of these,20/09/2011,0.03
+Don't know / None of these,04/10/2011,0.02
+Don't know / None of these,18/10/2011,0.02
+Don't know / None of these,01/11/2011,0.03
+Don't know / None of these,15/11/2011,0.03
+Don't know / None of these,29/11/2011,0.02
+Don't know / None of these,13/12/2011,0.03
+Don't know / None of these,03/01/2012,0.03
+Don't know / None of these,17/01/2012,0.03
+Don't know / None of these,31/01/2012,0.02
+Don't know / None of these,14/02/2012,0.02
+Don't know / None of these,20/02/2012,0.03
+Don't know / None of these,28/02/2012,0.03
+Don't know / None of these,13/03/2012,0.02
+Don't know / None of these,27/03/2012,0.02
+Don't know / None of these,10/04/2012,0.02
+Don't know / None of these,24/04/2012,0.03
+Don't know / None of these,08/05/2012,0.02
+Don't know / None of these,22/05/2012,0.03
+Don't know / None of these,07/06/2012,0.03
+Don't know / None of these,19/06/2012,0.02
+Don't know / None of these,03/07/2012,0.02
+Don't know / None of these,17/07/2012,0.02
+Don't know / None of these,31/07/2012,0.03
+Don't know / None of these,14/08/2012,0.03
+Don't know / None of these,28/08/2012,0.03
+Don't know / None of these,11/09/2012,0.03
+Don't know / None of these,25/09/2012,0.02
+Don't know / None of these,09/10/2012,0.03
+Don't know / None of these,23/10/2012,0.03
+Don't know / None of these,06/11/2012,0.02
+Don't know / None of these,20/11/2012,0.02
+Don't know / None of these,04/12/2012,0.02
+Don't know / None of these,15/01/2013,0.02
+Don't know / None of these,29/01/2013,0.02
+Don't know / None of these,12/02/2013,0.02
+Don't know / None of these,26/02/2013,0.02
+Don't know / None of these,05/03/2013,0.03
+Don't know / None of these,12/03/2013,0.02
+Don't know / None of these,19/03/2013,0.03
+Don't know / None of these,26/03/2013,0.03
+Don't know / None of these,02/04/2013,0.03
+Don't know / None of these,09/04/2013,0.03
+Don't know / None of these,16/04/2013,0.03
+Don't know / None of these,23/04/2013,0.03
+Don't know / None of these,30/04/2013,0.03
+Don't know / None of these,07/05/2013,0.04
+Don't know / None of these,21/05/2013,0.02
+Don't know / None of these,04/06/2013,0.02
+Don't know / None of these,18/06/2013,0.03
+Don't know / None of these,16/07/2013,0.02
+Don't know / None of these,30/07/2013,0.03
+Don't know / None of these,13/08/2013,0.03
+Don't know / None of these,27/08/2013,0.03
+Don't know / None of these,10/09/2013,0.05
+Don't know / None of these,08/10/2013,0.05
+Don't know / None of these,22/10/2013,0.03
+Don't know / None of these,05/11/2013,0.04
+Don't know / None of these,19/11/2013,0.03
+Don't know / None of these,03/12/2013,0.05
+Don't know / None of these,17/12/2013,0.04
+Don't know / None of these,14/01/2014,0.03
+Don't know / None of these,22/01/2014,0.04
+Don't know / None of these,28/01/2014,0.03
+Don't know / None of these,11/02/2014,0.04
+Don't know / None of these,25/02/2014,0.02
+Don't know / None of these,11/03/2014,0.03
+Don't know / None of these,25/03/2014,0.03
+Don't know / None of these,08/04/2014,0.03
+Don't know / None of these,13/05/2014,0.04
+Don't know / None of these,28/05/2014,0.04
+Don't know / None of these,10/06/2014,0.04
+Don't know / None of these,24/06/2014,0.04
+Don't know / None of these,08/07/2014,0.04
+Don't know / None of these,22/07/2014,0.04
+Don't know / None of these,05/08/2014,0.04
+Don't know / None of these,19/08/2014,0.03
+Don't know / None of these,02/09/2014,0.04
+Don't know / None of these,16/09/2014,0.04
+Don't know / None of these,14/10/2014,0.04
+Don't know / None of these,28/10/2014,0.05
+Don't know / None of these,11/11/2014,0.04
+Don't know / None of these,25/11/2014,0.04
+Don't know / None of these,09/12/2014,0.04
+Don't know / None of these,06/01/2015,0.03
+Don't know / None of these,20/01/2015,0.04
+Don't know / None of these,03/02/2015,0.04
+Don't know / None of these,17/02/2015,0.04
+Don't know / None of these,03/03/2015,0.03
+Don't know / None of these,17/03/2015,0.03
+Don't know / None of these,31/03/2015,0.03
+Don't know / None of these,14/04/2015,0.02
+Don't know / None of these,28/04/2015,0.03
+Don't know / None of these,12/05/2015,0.03
+Don't know / None of these,19/05/2015,0.03
+Don't know / None of these,26/05/2015,0.03
+Don't know / None of these,02/06/2015,0.03
+Don't know / None of these,09/06/2015,0.04
+Don't know / None of these,04/09/2015,0.04
+Don't know / None of these,18/12/2015,0.04
+Don't know / None of these,08/06/2016,0.05
+Don't know / None of these,06/07/2016,0.05
+Don't know / None of these,26/07/2016,0.06
+Don't know / None of these,02/08/2016,0.05
+Don't know / None of these,09/08/2016,0.05
+Don't know / None of these,17/08/2016,0.05
+Don't know / None of these,23/08/2016,0.05
+Don't know / None of these,31/08/2016,0.03
+Don't know / None of these,14/09/2016,0.05
+Don't know / None of these,12/10/2016,0.05
+Don't know / None of these,25/10/2016,0.06
+Don't know / None of these,01/11/2016,0.04
+Don't know / None of these,15/11/2016,0.05
+Don't know / None of these,29/11/2016,0.05
+Don't know / None of these,17/12/2016,0.07
+Don't know / None of these,10/01/2017,0.06
+Don't know / None of these,17/01/2017,0.04
+Don't know / None of these,24/01/2017,0.05
+Don't know / None of these,31/01/2017,0.04
+Don't know / None of these,13/02/2017,0.06
+Don't know / None of these,22/02/2017,0.03
+Don't know / None of these,28/02/2017,0.05
+Don't know / None of these,14/03/2017,0.04
+Don't know / None of these,21/03/2017,0.05
+Don't know / None of these,27/03/2017,0.05
+Don't know / None of these,06/04/2017,0.04
+Don't know / None of these,19/04/2017,0.05
+Don't know / None of these,26/04/2017,0.05
+Don't know / None of these,03/05/2017,0.04
+Don't know / None of these,10/05/2017,0.04
+Don't know / None of these,17/05/2017,0.05
+Don't know / None of these,31/05/2017,0.06
+Don't know / None of these,07/06/2017,0.05
+Don't know / None of these,22/06/2017,0.04
+Don't know / None of these,11/07/2017,0.04
+Don't know / None of these,01/08/2017,0.05
+Don't know / None of these,31/08/2017,0.06
+Don't know / None of these,12/09/2017,0.04
+Don't know / None of these,11/10/2017,0.04
+Don't know / None of these,28/11/2017,0.05
+Don't know / None of these,12/12/2017,0.04
+Don't know / None of these,20/12/2017,0.05
+Don't know / None of these,21/12/2017,0.04
