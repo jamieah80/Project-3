@@ -33,7 +33,6 @@
             margin-bottom: 20px;
         }
     </style>
-    
 </head>
 <body>
 
@@ -77,33 +76,39 @@
             </div>
         </div>
     </div>
-
     <!-- Main container for content -->
     <div class="container">
+        <!-- Row containing the header -->
         <div class="row">
-          <div class="col-md-12 p-5 text-center bg-light">
-            <header>
-                <h1>Buzzword Trends in Political Newspapers</h1>
-                <p>Use the below tools to identify trends between commonly used words in Newspapers and topics polled with the public about their priorities</p>
-            </header>
-          </div>
+            <div class="col-md-12 p-5 text-center bg-light">
+                <header>
+                    <h1>Buzzword Trends in Political Newspapers</h1>
+                    <p>Use the below tools to identify trends between commonly used words in Newspapers and topics polled with the public about their priorities</p>
+                </header>
+            </div>
         </div>
+        
         <br>
+        
+        <!-- Row containing the word cloud -->
         <div class="row">
             <div class="col-md-9">
                 <div class="wordCloudContainer">
                     <!-- Word cloud will be rendered here -->
                     <img id="wordCloud" alt="Word Cloud">
                 </div>
-              </div>
             </div>
-          <br>
+        </div>
+        
+        <br>
+        
+        <!-- Row containing the line chart -->
+        <div class="row">
             <div class="col-md-9">
-                    <!-- Line Chart will be rendered here -->
-                    <div id="chart"></div>
-              </div>
+                <!-- Line Chart will be rendered here -->
+                <div id="chart"></div>
             </div>
-          </div>
+        </div>
     </div>
 
     <!-- Sources for D3.js, Plotly, and JavaScript logic file -->

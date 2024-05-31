@@ -30,7 +30,6 @@
             margin-bottom: 20px;
         }
     </style>
-    
 </head>
 <body>
 
@@ -42,11 +41,10 @@
         <a href="index.html">Visualizations</a>
         <a class="active" href="about.html">About this Project</a>
         <a href="ethics.html">Ethical Considerations</a>
-        </div>
     </div>
-
     <!-- Main container for content -->
     <div class="container">
+        <!-- Row containing the header -->
         <div class="row">
             <div class="col-md-12 p-5 text-center bg-light">
                 <header>
@@ -54,6 +52,7 @@
                 </header>
             </div>
         </div>
+        
         <br>
 
         <!-- Row containing the overview and method sections -->
@@ -62,39 +61,37 @@
                 <div class="card card-body bg-light">
                     <h3>Overview</h3>
                     <p>
-                        
                         This project aims to analyze and compare voter priorities with media/newspaper coverage leading up to national elections in the UK for the years 2010, 2015, and 2017. By leveraging survey data from YouGov and media articles from the Poldem dataset, we seek to understand if the issues that matter most to voters are adequately represented in the media. The project involves data extraction, cleaning, storage, and visualization using Python, Flask, SQLite, and D3.js.
                     </p>
                     <br>
                     <h3>Hypothesis</h3>
                     <p><b>
-                        As public interest in a topic rises, Newspapers will discuss the topic more 
-                </b></p>
+                        As public interest in a topic rises, Newspapers will discuss the topic more.
+                    </b></p>
                     <br>
-                        <h3>Method</h3>
-                        <p>
-                            Analyze voter priorities from YouGov survey data, focusing on demographics, social grade, and top issues.
-                    <br>    Analyze media coverage from the Poldem dataset using word clouds to visualize the most discussed topics.
-                    <br>    Compare and visualize the alignment between voter priorities and media/ newspaper coverage.
-                    <br>    Instructions
-                    <br>    Prerequisites
-                    <br>    Python
-                    <br>    Flask
-                    <br>    Pandas
-                    <br>    SQLite
-                    <br>    Wordcloud library
-                    <br>    D3.js (for interactive visualizations)
+                    <h3>Method</h3>
+                    <p>
+                        Analyze voter priorities from YouGov survey data, focusing on demographics, social grade, and top issues.
+                        <br>Analyze media coverage from the Poldem dataset using word clouds to visualize the most discussed topics.
+                        <br>Compare and visualize the alignment between voter priorities and media/newspaper coverage.
+                        <br>Instructions
+                        <br>Prerequisites
+                        <br>Python
+                        <br>Flask
+                        <br>Pandas
+                        <br>SQLite
+                        <br>Wordcloud library
+                        <br>D3.js (for interactive visualizations)
                     </p>
                 </div>
             </div>
             <br>
-
             <!-- Row containing the project completion and sources section -->
             <div class="col-md-12">
                 <div class="card card-body bg-light">
                     <span>
                     This Project was completed and presented on 30/05/2024 for Module 17 of EdX and University of Birmingham Data Analytics Bootcamp. <br>
-                    Sources used in this work: <a href="https://yougov.co.uk/topics/society/trackers/the-most-important-issues-facing-the-country">YouGov</a> and                    <a href="https://poldem.eui.eu/data-overview/">PolDem</a>
+                    Sources used in this work: <a href="https://yougov.co.uk/topics/society/trackers/the-most-important-issues-facing-the-country">YouGov</a> and <a href="https://poldem.eui.eu/data-overview/">PolDem</a>
                     </span>
                 </div>
             </div>
@@ -105,6 +102,6 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="./static/js/logic.js"></script>
-
 </body>
 </html>
+
