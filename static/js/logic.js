@@ -72,51 +72,66 @@ function updateLineChart() {
   const year = document.getElementById('yearSelectIssues').value;
   const issue = document.getElementById('issueSelect').value;
 
-  //use Flask API with Json
+  // Identify the index of the selected issue in the issues array
+  
+  const issueIndex = issues.indexOf(issue);
 
-  // Fetch and update the line chart data based on the selected year, issue
+  // Construct the API endpoint URL
+  
+  const apiUrl = `/api/data?year=${year}&issue=${issueIndex}`;
 
-  //identify which row issue is
+  // Use fetch to make the API request
+  
+  fetch(apiUrl)
+    .then(response => response.json())
+    .then(data => {
+  
+      // Extract relevant data from the API response
+  
+      const dates = data.dates;
+      const percentages = data.percentages;
 
-  //filter dates to year
+      // Update the line chart with the new data
+  
+      var options = {
+        series: [{
+          name: issue,
+          data: percentages
+        }],
+        chart: {
+          height: 350,
+          type: 'line',
+          zoom: {
+            enabled: true
+          }
+        },
+        dataLabels: {
+          enabled: true
+        },
+        stroke: {
+          curve: 'straight'
+        },
+        title: {
+          text: 'Issue Trends by Month',
+          align: 'left'
+        },
+        grid: {
+          row: {
+            colors: ['#f3f3f3', 'transparent'], // takes an array which will be repeated on columns
+            opacity: 0.5
+          }
+        },
+        xaxis: {
+          categories: dates
+        }
+      };
 
-
-
-  var options = {
-    series: [{
-      name: issue[i],
-      data: percentages
-    }],
-    chart: {
-    height: 350,
-    type: 'line',
-    zoom: {
-      enabled: true
-    }
-  },
-  dataLabels: {
-    enabled: true
-  },
-  stroke: {
-    curve: 'straight'
-  },
-  title: {
-    text: 'Product Trends by Month',
-    align: 'left'
-  },
-  grid: {
-    row: {
-      colors: ['#f3f3f3', 'transparent'], // takes an array which will be repeated on columns
-      opacity: 0.5
-    },
-  },
-  xaxis: {
-    categories: dates,
-  }
-  };
-
-  var chart = new ApexCharts(document.querySelector("#chart"), options);
-  chart.render();
+      var chart = new ApexCharts(document.querySelector("#chart"), options);
+      chart.render();
+    })
+    .catch(error => {
+      console.error('Error fetching data:', error);
+    });
 }
 
 function openCloseNav() {

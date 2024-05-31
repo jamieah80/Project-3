@@ -15,3 +15,6 @@ Pandas
 SQLite
 Wordcloud library
 D3.js (for interactive visualizations)
+
+Group Members:
+James Hanson, Alexander Lee, Ayesha Maryam, Varvara Vecerka, Archie Conlon
