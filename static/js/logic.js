@@ -31,7 +31,7 @@ function init() {
     .append("option")
     .text(function(d) { return d; });
   
-    let issues = ['Economy', 'Healthcare', 'Education', 'Environment'];
+    let issues = ['Health', 'Immigration & Asylum', 'Crime', 'The Economy', 'Tax', 'Pensions', 'Education', 'Family life & childcare', 'Housing', 'The environment', 'Britain leaving the EU', 'Transport', 'Welfare benefits', 'Defence and security', 'None of these', 'Afghanistan', 'Defence and terrorism', 'Don't know / None of these'];
     let dropdownMenu3 = d3.select("#issueSelect");
 
     // Hint: Inside a loop, you will need to use d3 to append a new
