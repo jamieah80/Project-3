@@ -1,6 +1,6 @@
 Overview of this project and its purpose.
 
-This project aims to analyse and compare voter priorities with media/newspaper coverage leading up to national elections in the UK for the years 2010, 2015, and 2017. By leveraging survey data from YouGov and media articles from the Poldem dataset, we seek to understand if the issues that matter most to voters are adequately represented in the media. The project involves data extraction, cleaning, storage, and visualization using Python, Flask, SQLite, and D3.js.
+This project aims to analyse and compare voter priorities with media/newspaper coverage leading up to national elections in the UK for the years 2010, 2015, and 2017. By leveraging survey data from YouGov and media articles from the Poldem dataset, we seek to understand if the issues that matter most to voters are adequately represented in the media. The project involves data extraction, cleaning, storage, and visualization using Python, Flask, SQLite, Apex and D3.js.
 
 To do this we have created a series of wordclouds that disply the most common keywords in newspaper headlines at a time selected.  The larger the word, the more often it appeared.
 
