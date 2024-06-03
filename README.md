@@ -10,7 +10,7 @@ Instructions on how to use and interact with the project.  You can then use the 
 
 You will hve access to our Github repository that contains the necessary files.  
 
-On the left hand side of the page you will see toggle switches which yo can use to select a range of years and issues.  A wordcloud will be created that will highlight the overall popularity of key issues in newspaper reporting, and a line graph is generated to show how popular that issue is with survey repsondents.  You can then analyse them to see if there is a correlation between the two. 
+On the left hand side of the page you will see check boxes which you can use to select a range of years and issues.  A wordcloud will be created that will highlight the overall popularity of key issues in newspaper reporting, and a line graph is generated to show how popular that issue is with survey repsondents.  You can then analyse them to see if there is a correlation between the two. 
 The Project Purpose
 
 Ethical Considerations.
