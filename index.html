@@ -64,15 +64,83 @@
                 <select id="yearSelectIssues" onchange="optionChangedYearYG(this.value)">
                 </select>
             </div>
-            <div class="checkbox">
-                <label for="issueSelect">Voter Issue:</label>
-                <select id="issueSelect" onchange="optionChangedIssueYG(this.value)">
-                </select>
-            </div>
-            <div class="checkbox">
-                <label for="demoSelect">Demographic:</label>
-                <select id="demoSelect" onchange="optionChangedDemoYG(this.value)">
-                </select>
+            <div class="inline-field">
+            <label class="checkboxcontainer">Toggle All <br>
+                <input type="checkbox" onClick="toggle(this)" onClick="identifychecks()"/>
+                <span class="checkmark"></span>
+            </label>
+            <label class="checkboxcontainer">Health<br>
+                <input type="checkbox" value="Health" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label>
+              <label class="checkboxcontainer">Immigration & Asylum<br>
+                <input type="checkbox" value="Immigration & Asylum" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label>
+              <label class="checkboxcontainer">Crime<br>
+                <input type="checkbox" value="Crime" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label>
+              <label class="checkboxcontainer">The economy<br>
+                <input type="checkbox" value="The economy" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Tax<br>
+                <input type="checkbox" value="Tax" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Pensions<br>
+                <input type="checkbox" value="Pensions" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Education<br>
+                <input type="checkbox" value="Education" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Family life & childcare<br>
+                <input type="checkbox" value="Family life & childcare" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Housing<br>
+                <input type="checkbox" value="Housing" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">The environment<br>
+                <input type="checkbox" value="The environment" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Britain leaving the EU<br>
+                <input type="checkbox" value="Britain leaving the EU" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Transport<br>
+                <input type="checkbox" value="Transport" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Welfare benefits<br>
+                <input type="checkbox" value="Welfare benefits" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Defence and security<br>
+                <input type="checkbox" value="Defence and security" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">None of these<br>
+                <input type="checkbox" value="None of these" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Afghanistan<br>
+                <input type="checkbox" value="Afghanistan" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Defence and terrorism<br>
+                <input type="checkbox" value="Defence and terrorism" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
+              <label class="checkboxcontainer">Don't know / None of these
+                <input type="checkbox" value="Don't know / None of these" name = "foo" onClick="identifychecks()">
+                <span class="checkmark"></span>
+              </label> 
             </div>
         </div>
     </div>
@@ -114,7 +182,7 @@
     <!-- Sources for D3.js, Plotly, and JavaScript logic file -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="./static/js/Update Wordcloud with call to json.js"></script>
+    <script src="./static/js/logic.js"></script>
 
 </body>
 </html>
