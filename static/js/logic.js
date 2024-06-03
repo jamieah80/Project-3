@@ -1,5 +1,7 @@
 const APIseries = [];
 const dates = [];
+const date = [];
+const test = [];
 
 function updateWordCloud() {
     const year = document.getElementById('yearSelect').value;
@@ -78,12 +80,17 @@ function updateLineChart() {
                     }
                 },
                 xaxis: {
-                    categories: dates
+                    categories: test[test.length - 1]
                 },
                 yaxis: {
                     min: 0,
                     max: 100
-                }
+                },
+                legend: {
+                    onItemHover: {
+                      highlightDataSeries: true
+                    },
+                  },
             };
   
             // Clear previous chart instance if it exists
@@ -91,10 +98,12 @@ function updateLineChart() {
             if (existingChart) {
                 existingChart.destroy();
             }
+            
   
             const chart = new ApexCharts(document.querySelector("#chart"), options);
             chart.render();
             
+            APIseries.splice(0, APIseries.length);
         }
         
   
@@ -119,7 +128,7 @@ function toggle(source) {
 function identifychecks(){
     var items = document.querySelectorAll('[name="foo"]:checked');
     var selectedlist=[];
-    for(var i=0; i<items.length; i++)       
+    for(var i=0; i<items.length; i++)
     {
         if(items[i].type=='checkbox' && items[i].checked==true)                 
             selectedlist.push(items[i].value);
@@ -128,11 +137,11 @@ function identifychecks(){
     for(var j=0; j<selectedlist.length; j++)
     {
         const year = document.getElementById('yearSelectIssues').value;
-        var issue = selectedlist[j];
+        let issue = selectedlist[j];
         // Direct URL to the hosted JSON file
-    const apiUrl = 'https://jamieah80.github.io/Project-3/data.json';
-
-    fetch(apiUrl)
+        const apiUrl = 'https://jamieah80.github.io/Project-3/data.json';
+        //console.log(issue);
+        fetch(apiUrl)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok ' + response.statusText);
@@ -140,27 +149,25 @@ function identifychecks(){
             return response.json();
         })
         .then(data => {
-            console.log('API data received:', data);
+            //console.log('API data received:', data);
   
             // Filter data for the selected year and issue
             let filteredData = data.filter(entry => entry.Year == year && entry.Issue === issue);
-            console.log(filteredData);
+
             if (filteredData.length === 0) {
                 throw new Error(`No data found for issue "${issue}" in year ${year}`);
             }
   
             // Extract dates and percentages
-            let dates = filteredData.map(entry => entry.Date);
+            const dates = filteredData.map(entry => entry.Date);
+            test.push(dates);
             let percentages = filteredData.map(entry => (parseFloat(entry.Decimal) * 100).toFixed());
-            console.log(issue);
-            console.log(percentages);
-            let dict = {names: issue, data: percentages};
+            let dict = {name: issue, data: percentages};
             APIseries.push(dict);
         })
-    console.log(APIseries);
-    updateLineChart();
-    APIseries.length = 0;
+    
     }
+    updateLineChart();
 }
 
 document.addEventListener("DOMContentLoaded", init);
