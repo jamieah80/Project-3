@@ -17,8 +17,7 @@ Ethical Considerations.
 
 To ensure data accuracy and integrity, we have used only well established and reputable sources and have not manipulated the data in any way.  In terms of transparency, we have been clear in using data from YouGov and Poldem websites.  The original data can be found at https://yougov.co.uk/topics/society/trackers/the-most-important-issues-facing-the-country for YouGov and at https://poldem.eui.eu/data-overview/ for Poldem.
 
-All data was either supplied anonymised (YouGov) or in the case of Poldem any references to e.g. specific politicians was not used in visualisations and not used as keywords.  For example if there was an article with a headline such as "MP X said that the economy is a key issue in the campaign" as a newpaper headline, there is no reference to MP X in our visualisation - it would just report the economy in our word cloud, with no reference to a specific name.
-Data Anonymization: Ensure that any personal or sensitive information in your data is anonymized. Avoid displaying any data that can be traced back to an individual unless explicit consent has been obtained.  We understand that we have complied with any relevant legislation such as GDPR etc.
+YouGov data was supplied without any names - it was all anonymous.  However with Poldem in some cases specific politicians were mentioned to give context to newspaper headlines.  We decided to keep these in because it preserves data accuracy as we have not changed the raw data - we are presenting what it is - and Poldem themselves follow ethical guidelines themselves when generating the data.
 
 We have removed our own personal bias by using this survey data only and does not include the team's personal views as to what is important.  YouGov and Poldem themselves have stringent methodologies that they follow to prevent bias and to ensure fair representation.
 
